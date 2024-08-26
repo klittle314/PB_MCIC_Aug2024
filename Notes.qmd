@@ -1,0 +1,129 @@
+---
+title: "MCIC Notes"
+format: html
+editor: visual
+---
+
+# DRAFT MCIC Supporting Notes
+
+## Introduction
+
+### Author notes
+
+Paulo
+
+Kevin
+
+### Sources of influence
+
+Our thinking and consultation practice has several major influences. You may be familiar with one or more of the following. We think the least familiar to most people is the Training Within Industry (TWI) approach to front-line operations. We'll provide a brief introduction to TWI in our session.
+
+-   Deming through API and IHI (Model for Improvement, System of Profound Knowledge);
+
+-   Juran (Juran Trilogy, the definition of self-control);
+
+-   Lean approach to design and deployment of production systems (various authors list) and advice on specific elements of operations management;
+
+-   Training Within Industry skills for supervisors and management.
+
+### The ED environment
+
+In 2024, emergency departments in the U.S. have high demand for care and subsequent challenges to maintain high levels of safe, effective and efficient care. The care environment is characterized by a fast pace and diversity of patient conditions that vary across ED locations. Changes to improve performance in other care settings, like the ICU or surgical suites, may need adapting to yield improvements in the ED.
+
+## 1. Our Common Experience with Improvement Projects
+
+Have you experienced an improvement project that failed? There are many ways a project might fail. Some projects never get off the ground or an initial great idea doesn't deliver improvement in local tests.
+
+Let's focus on projects that showed promise initially but could not be sustained over time.
+
+What's your story?
+
+We have had many projects just like yours.
+
+Some of our failure modes include:
+
+-   The "new way" was too difficult to maintain, with too much burden for staff
+
+-   We didn't address problems that emerged in dynamic clinical settings
+
+-   Staff turnover diluted knowledge and skills; training and on-boarding did not provide new staff with the skills and knowledge they needed
+
+-   Other initiatives and priorities demanded attention and effort, we lost focus
+
+-   We proposed changes that the front-line staff don't think matters.
+
+## A Look at an ICU Project 2018-2021
+
+Paulo helped to design and lead a large-scale project to reduce hospital-acquired infections in 118 public hospital ICU units in Brazil. The project achieved more than a 50% reduction in HAI averaged across the ICU units through deployment of specific infection prevention "bundles".
+
+However, the project had a fundamental weakness. The method to achieve the lower HAI rates depended on a burdensome feedback cycle. After 12 months, almost all ICU units had stopped collecting data on adherence to the use of the bundles. The Ministry of Health requested a new initiative with 200 ICUs but anticipated that the good results would fade as the units no longer could see and react to data on the fidelity of bundle use.
+
+The Ministry of Health asked for a change in methods to address this fundamental issue.
+
+Paulo and his project colleagues embarked on a journey to explore different and novel ways to control quality.
+
+![](images/ICU%20slide%201.png){width="500"}
+
+Paulo's initial investigations led him to design an intervention to improve maternal mortality and morbidity, focused on interventions in Emergency Departments. He extended his design adding more tools and approaches with a second phase of work to reduce infections in ICUs, both in Brazil and Portugal.
+
+## 2. Mind Shifts
+
+### A. Quality Improvement must integrate with Quality Control
+
+We now firmly believe that Quality Improvement must be integrated with Quality Control to increase the odds that improvements will stick. The relationship between Quality Control and Quality Improvement may not be news to you. Different quality experts have given this message for decades but we didn't understand the implications as deeply as we do now. What's your experience?
+
+![](images/Sustaining%20Improvement%20KL%20Aug%2019%202024.png){width="500"}
+
+If you're familiar with Joseph Juran's Quality Trilogy, Quality Planning complements Quality Improvement and Quality Control. Importantly, Juran insisted that Quality Control be done during operations, not after. In other words, Quality Control is not inspection of results and repair or fixing after the product or service is complete.
+
+[![*A summary of Juran's Quality Trilogy from the IHI Whole System Quality Whitepaper*](images/WSQ Juran Trilogy.png){width="500"}](https://www.ihi.org/sites/default/files/IHI-Whole-System-Quality-White-Paper.pdf)
+
+Quality Planning is the way an organization identifies areas of opportunity and change related to strategy and markets, including listening to customers. Quality Planning is not reacting to immediate operational problems. Quality Planning addresses design of new products and services and the translation of the design into production through initial experiments and pilot-scale operations.
+
+While we won't address Quality Planning today, we believe that Quality Planning must rest on understanding the health and performance of operations and on an effective Quality Control system.
+
+You see that the Kano diagram does not show a role for Quality Planning. For example, the Kano diagram does not show a path of improvement projects that emerge from Quality Planning rather than responses to operational problems.
+
+[Example:]{.underline} The rapid pivot in 2020 to COVID protocols in clinical settings is an example of an exogenous change that drove changes to operations. Healthcare organizations with robust QC systems adapted quickly and more safely relative to other organizations. (Baptist Health, Skip Steward, <https://www.lean.org/the-lean-post/articles/building-a-learning-organization-kata-webinar-snippet/>).
+
+### B. Problems are good to have
+
+We now believe that your challenge and ours is to build management systems that support people to find and solve problems. That's a radical shift from seeking an operating system that has no problems.
+
+For us, a problem is simply a gap between between what you want and what you've got right now. A solution to a problem closes or eliminates the gap. The more problems, the better! Of course, too many problems will overwhelm the best organization. You must catch the problems before the problems are too big and your people need sufficient skills and support to solve the problems they find.
+
+"No problems is the biggest problem of all." We've looked for a citation to this observation attributed to Taiichi Ohno, developer of the Toyota Production System. We haven't found a precise reference to this advice but it's still a powerful reminder.
+
+## 4. A new project:  improving performance of 11 EDs in Sao Paulo, Brazil
+
+Paulo and his colleagues are designing a learning community that aims to improve care in 11 EDs. The 11 EDs will build and use a management system to make it easy for people to see and solve problems.
+
+![](images/ED project slide.png){width="500"}
+
+Here's a more detailed outline of the management system. You are likely to be familiar with and may be using a version of one of more of the elements in your EDs. We'll give a brief introduction to a couple of the elements that we think will be less familiar. We'll give you a chance to direct our conversation for the second half of the presentation to go a bit deeper.
+
+![](images/Elements of the Mgt System.png){width="500"}
+
+### 4.1 Lessons from the Maternal Mortality Project 2019-2021 
+
+The management system proposed for the ED project emerged in from two other sets of interventions.
+
+First, Paulo's adjusted his approach to improvement starting in 2019 with the Maternal Mortality Project. The MMP focused on reducing birth-associated mortality in the ED. The project was the first time Paulo and his colleagues integrated the technique of Job Instruction in a core clinical process. \[The identification and mapping of the 4R's was good work but not "new"? One of the interventions was to change the work first and then train to the work....this is important sequencing but did you do anything new in defining the 4Rs work??\]
+
+![](images/MM-1.png){width="500"}
+
+![](images/MM-2.png){width="500"}
+
+![](images/MM-3.png){width="500"}
+
+N
+
+![](images/MM-4.png){width="500"}
+
+The MMP project team identified a high leverage process, "4Rs to Rescue."
+
+![](images/Maternal Mortality Core Process.png){width="500"}
+
+They then developed bundles of care and used a new way to train staff in the work involved in delivering the bundles of care.
+
+\[the leverage point discussion in your pptx file is interesting and relevant to selection of where you should apply work standards, standard work and reduce variability. It provides an answer to the objection–"We can't develop detailed training for every task in the ED--it's too much!" Your answer: "Focus on leverage points." Suggestion: don't include in the MCIC deck\]
