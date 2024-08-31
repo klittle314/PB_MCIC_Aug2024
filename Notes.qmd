@@ -3,37 +3,20 @@ title: "MCIC Notes"
 format: pdf
 editor: visual
 css:  styles.css
+toc: true
 ---
 
-# DRAFT MCIC Supporting Notes
+# Shared Learning: Basics of Large-Scale Systems Improvement
 
 ## Introduction
-
-### Author notes
-
-Paulo
-
-Kevin
-
-### Sources of influence
-
-Our thinking and consultation practice has several major influences. You may be familiar with one or more of the following. We think the least familiar to most people is the Training Within Industry (TWI) approach to front-line operations. We'll provide a brief introduction to TWI in our session.
-
--   Deming through API and IHI (Model for Improvement, System of Profound Knowledge);
-
--   Juran (Juran Trilogy, the definition of self-control);
-
--   Lean approach to design and deployment of production systems (various authors list) and advice on specific elements of operations management;
-
--   Training Within Industry skills for supervisors and management.
 
 ### The ED environment
 
 In 2024, emergency departments in the U.S. have high demand for care and subsequent challenges to maintain high levels of safe, effective and efficient care. The care environment is characterized by a fast pace and diversity of patient conditions that vary across ED locations. Changes to improve performance in other care settings, like the ICU or surgical suites, may need adapting to yield improvements in the ED.
 
-Naive application of quality methods may not yield better results (reference Lillrank).
+Paulo Borem has extensive experience with large-scale improvement interventions in Brazil, Portugal and X \[the RIE experiment?\]. He is launching a project with 11 EDs in Sao Paulo Brazil and will apply his experience in previous projects to the ED environment.
 
-## 1. Our Common Experience with Improvement Projects
+## Our Common Experience with Improvement Projects
 
 Have you experienced an improvement project that failed? There are many ways a project might fail. Some projects never get off the ground or an initial great idea doesn't deliver improvement in local tests.
 
@@ -55,7 +38,9 @@ Some of our failure modes include:
 
 -   We proposed changes that the front-line staff don't think matters.
 
-## A Look at an ICU Project 2018-2021
+How can we prevent these failure modes? We'll present what Paulo has learned and current applications.
+
+## A Look at the ICU Project 2018-2021--A "failure"
 
 Paulo helped to design and lead a large-scale project to reduce hospital-acquired infections in 118 public hospital ICU units in Brazil. The project achieved more than a 50% reduction in HAI averaged across the ICU units through deployment of specific infection prevention "bundles".
 
@@ -67,83 +52,85 @@ Paulo and his project colleagues embarked on a journey to explore different and 
 
 ![](images/ICU%20slide%201.png){.img-border width="500"}
 
-Paulo's initial investigations led him to design an intervention to improve maternal mortality and morbidity, focused on interventions in Emergency Departments. He extended his design adding more tools and approaches with a second phase of work to reduce infections in ICUs, both in Brazil and Portugal.
+Prmopted by the Ministry of Health's criticism, Paulo next designed an revised intervention to improve maternal mortality and morbidity, focused on interventions in Emergency Departments.
 
-## 2. Mind Shifts
+He extended his design by adding more tools and approaches with a new phase of work to reduce infections in ICUs, both in Brazil and Portugal.
 
-### A. Quality Improvement must integrate with Quality Control
+The three new projects allowed him to test new ways to improve operations and sustain those improvements. We'll give you a brief look at each of these projects.
 
-We now firmly believe that Quality Improvement must be integrated with Quality Control to increase the odds that improvements will stick. The relationship between Quality Control and Quality Improvement may not be news to you. Different quality experts have given this message for decades but we didn't understand the implications as deeply as we do now. What's your experience?
+## Two Mind Shifts are the foundation of Paulo's new approach
+
+Paulo's mind has shifted since 2019 in two major ways as he develops large-scale improvement projects:
+
+-   Quality Improvement must integrate with Quality Control
+
+-   Problems are good to have
+
+### Quality Improvement must integrate with Quality Control
+
+Paulo now firmly believes that Quality Improvement must be integrated with Quality Control to increase the odds that improvements will stick.
+
+The relationship between Quality Control and Quality Improvement may not be news to you.
+
+What's your experience in understanding the connection between Quality Improvement and Quality Control?
+
+Different quality experts have stressed QI and QC integration for decades but we didn't understand the implications as deeply as we do now.
+
+For example, here's a diagram sketched by Dr. Noriaki Kano, an expert in Japanese Total Quality Control in 1991:
 
 ![](images/imageKano.png){.img-border width="500"}
 
-Quality Control requires a definition of the aim of operations. What characterizes the desired level of outcomes for your products or services? The definition gets translated into three sets of instructions to produce the outcomes: the characteristics of the product or service, the conditions of equipment and the environment that support production, and the step by step operations by people to make everything happen.
+In the Kano diagram, Quality Control is the beginning and end of Quality Improvement. Quality Control itself is a cycle that starts with Standard Work.
 
-The instructions are referred to as work standards. Quality Control during operations requires that we set up operations in two ways:
+"Standard work is a verb and not a noun....Standard work is meant to be a hypothesis to test the results of everyone doing something in the same way all the time....Standard work, therefore, is not the destination itself but simply a *tool* along the way in our endless quest to find the best, safest, and easiest way to deliver patient care." (*Getting to Standard Work in Health Care*, 2nd edition, p. 27).
 
-(1) make it easy to see any differences between the outcomes and process of actual operations and the work standards and
+Sustaining Quality Improvement requires a foundation in standard work. The foundation of standard work is the work standard: for each step in a care process, what is the job and how should it be done?
 
-(2) catch and reduce differences by corrective actions.
+Paulo's experience with the Maternal Mortality Project opened the door to better ways to define and teach jobs.
 
-Isao Kato, a key associate of Taiichi Ohno at Toyota starting in the 1950's, summarizes the essence of Quality Control, in his "Step-ups" Model.
+#### Quality Controls builds capacity for Quality Improvement
 
-![](images/Step-ups-1.png)
+In carrying out Quality Control during operations, people use the Plan-Do-Study-Act cycle explicitly every day. Daily experience builds skills of supervisors and individuals in solving local problems that usually have easier to grasp causes. When your organization needs a special improvement project, you will have a large cadre of skilled people who can contribute–you're not reliant on staff specialists who often do not have detailed job-specific knowledge and know-how to develop solutions that work well.
 
-In Kato's model:
+### Problems are good to have
 
-Step up 1 defines NORMAL--what you expect, in the sense of a 'Norm'.
+The Kano diagram shows that Quality Control generates problems.
 
-Step up 2: Make it easy to see the difference between Normal and Abnormal.
+Here's our definition of problem: a problem is simply a gap between between what you want and what you've got right now. A solution to a problem closes or eliminates the gap.
 
-Step Up 3: Problem solve (reduce the gap) between Normal and Abnormal.
+We now believe that your challenge and ours is to build management systems that make it easy for people to find and solve problems. That's a radical shift from seeking a management system that has no problems.
 
-Step up 4: Refine the workflow to drive out waste and develop skills of people.
+The more problems, the better!
 
-Step up 5: Assure the continued health of the first four step ups.
+Of course, too many problems will overwhelm the best organization. You must catch the problems before the problems are too big and your people need sufficient skills and support to solve the problems they find.
 
-In Kevin's opinion, Step ups 1-3 are the core of standardizing work. Step up 4 and Step up 5 merge with the elements of the overall management of operations.
+#### "No problems is the biggest problem of all."
 
-#### Comments on Quality Planning
+We've looked for a citation to this observation attributed to Taiichi Ohno, developer of the Toyota Production System. We haven't found a precise reference to this advice but we like the provocation.
 
-If you are familiar with Joseph Juran's Quality Trilogy, Quality Planning complements Quality Improvement and Quality Control.
+How can you modify your existing management system to make problems more visible and ready for your people to solve?
 
-Importantly, Juran insisted that Quality Control be done during operations, not after. In other words, Quality Control is not inspection of results and repair or fixing after the product or service is complete.
+The second phase of Paulo's ICU Improvement Project used several methods to make problems more visible, including a way to contrast the plan for core work with what people actually do, in real-time.
 
-[![](images/WSQ%20Juran%20Trilogy.png){width="500"}](https://www.ihi.org/sites/default/files/IHI-Whole-System-Quality-White-Paper.pdf)
+## More on Improvement Projects
 
-#### 
+### A new project: improving performance of 11 EDs in Sao Paulo, Brazil
 
-Quality Planning is the way an organization identifies areas of opportunity and change related to strategy and markets, including listening to customers. Quality Planning is not reacting to immediate operational problems. Quality Planning addresses design of new products and services and the translation of the design into production through initial experiments and pilot-scale operations.
-
-While we won't address Quality Planning today, we believe that Quality Planning must rest on understanding the health and performance of operations and on an effective Quality Control system.
-
-You see that the Kano diagram does not show a role for Quality Planning. For example, the Kano diagram does not show a path of improvement projects that emerge from Quality Planning rather than responses to operational problems.
-
-[Example:]{.underline} The rapid pivot in 2020 to COVID protocols in clinical settings is an example of an exogenous change that drove changes to operations. Healthcare organizations with robust QC systems adapted quickly and more safely relative to other organizations. (Baptist Health, Skip Steward, <https://www.lean.org/the-lean-post/articles/building-a-learning-organization-kata-webinar-snippet/>).
-
-### B. Problems are good to have
-
-"No problems is the biggest problem of all." We've looked for a citation to this observation attributed to Taiichi Ohno, developer of the Toyota Production System. We haven't found a precise reference to this advice but it's still a powerful reminder.
-
-We now believe that your challenge and ours is to build management systems that support people to find and solve problems. That's a radical shift from seeking an operating system that has no problems.
-
-For us, a problem is simply a gap between between what you want and what you've got right now. A solution to a problem closes or eliminates the gap. The more problems, the better! Of course, too many problems will overwhelm the best organization. You must catch the problems before the problems are too big and your people need sufficient skills and support to solve the problems they find.
-
-## 3. A new project: improving performance of 11 EDs in Sao Paulo, Brazil
-
-Paulo and his colleagues are designing a learning community that aims to improve care in 11 EDs. The 11 EDs will build and use a management system to make it easy for people to see and solve problems.
+Paulo and his colleagues are designing a learning community that aims to improve care in 11 EDs. Leaders in the 11 EDs will clarify several elements of care as they define standard work. The leaders in the EDs will also make it much easier to see and solve problems.
 
 ![](images/ED%20project%20slide.png){width="500"}
 
-Here's a more detailed outline of the management system. You are likely to be familiar with and may be using a version of one of more of the elements in your EDs. We'll give a brief introduction to a couple of the elements that we think will be less familiar. We'll give you a chance to direct our conversation for the second half of the presentation to go a bit deeper.
+Here's a summary of the management system being designed for the ED project.
 
 ![](images/Elements%20of%20the%20Mgt%20System.png){width="500"}
 
-### Lessons from the Maternal Mortality Project 2019-2021
+You are likely to be familiar with and may be using a version of one of more of the elements in your EDs.
+
+### Lesson from the Maternal Mortality Project 2019-2021: Agree on the work, Teach the work
 
 The management system proposed for the ED project emerged from two other sets of interventions.
 
-First, Paulo's adjusted his approach to improvement starting in 2019 with the Maternal Mortality Project. The MMP focused on reducing birth-associated mortality in the ED. The project was the first time Paulo and his colleagues integrated the technique of Job Instruction in a core clinical process.
+The MMP focused on reducing birth-associated mortality in the ED. The project was the first time Paulo and his colleagues integrated the technique of Job Instruction with a core clinical process.
 
 \[The identification and mapping of the 4R's was good work but not "new"? One of the interventions was to change the work first and then train to the work....this is important sequencing but did you do anything new in defining the 4Rs work??\]
 
@@ -159,11 +146,15 @@ The MMP project team identified a high leverage process, "4Rs to Rescue."
 
 ![](images/Maternal%20Mortality%20Core%20Process.png){width="500"}
 
-The project team then developed bundles of care used to rescue. To reduce variation in the way staff carried out the bundles, the project team used a new way, "Job Instruction" to train staff in the key steps within each of the 4R process blocks.
+The project team then developed bundles of care used to rescue. To reduce variation in the way staff carried out the bundles, the project team applied a new way, "Job Instruction" to train staff in the key steps within each of the 4R process blocks.
 
 #### Job Instruction
 
-Job Instruction (JI) is one of the core methods in the Training Within Industry (TWI). We'll say a bit more about TWI later in this session if we have time; go to [2. Teach skills to do the work (JI Method)](#teach-skills-to-do-the-work-ji-method) to learn more. JI requires one-to-one teaching. The instructor systematically demonstrates the job and offers the and then watches the person being instructed carry out the key steps
+Job Instruction (JI) is one of the core methods in the Training Within Industry (TWI). We'll say a bit more about TWI later in this session if we have time; go to [2. Teach skills to do the work (JI Method)](#teach-skills-to-do-the-work-ji-method) to learn more.
+
+JI requires one-to-one teaching.
+
+The instructor systematically demonstrates the job and offers the and then watches the person being instructed carry out the key steps
 
 ![](images/JI-1.png){width="500"}
 
@@ -175,27 +166,29 @@ The instructor uses a well-defined teaching sequence that involves showing the i
 
 **What did Paulo's teams learn from JI application, what are the benefits?**
 
--   Everyone has clarity about the core jobs. New people can learn the important steps in the same way as current staff.
+-   Everyone has clarity about the core jobs. New people can learn the important steps and carry out the work in the same way as current staff.
 
 -   People know why they are doing specific tasks a certain way. Knowing why helps to cement the lessons and provides the basis for future modification of work standards.
 
--   While 1-1 training may seem inefficient, ultimately there is no other way we've seen that delivers the consistency of job performance resulting from the JI apporach.
+-   While 1-1 training may seem inefficient, ultimately there is no other way we've seen that delivers the consistency of job performance produced by the JI including the insistence on 1-1 training.
 
--   The approach supports a specific Training Plan and path for staff. We do not expect every person to master every job skill all at once. Supervisors and managers can organize a sequence for training and use training achievement to schedule work teams (vacations, etc.) to assure sufficient people with skills are present on each shift.
+-   JI supports a Training Plan–what and by when–for staff skill building. We do not expect every person to master every job skill all at once. Supervisors and managers can organize a sequence for training. The training achievement of team members allows more effective schedules to assure sufficient people with skills are present on each shift across shifts, accounting for vacations and leaves of absence. The training status naturally appears as a chart on the local visual management board.
 
-Paulo's experience: People resist the systematic way of training at the beginning! When they understand the impact, they will adopt it. To introduce
+Paulo's experience: People resist the systematic way of training at the beginning! When they understand the impact, they will adopt it.
 
-*Your pptx file is interesting and relevant to selection of where you should apply work standards, standard work and reduce variability. It provides an answer to the objection–"We can't develop detailed training for every task in the ED--it's too much!" Your answer: "Focus on leverage points." Suggestion: don't include in the MCIC deck\]*
+### Lesson from ICU Phase 2 Project, 2021-2024: Make problems easy to see
 
-### 4.2 Lessons from ICU Phase 2, 2021-2024
+Paulo and his colleagues next explored a method to link the job skills defined by Job Breakdown Sheets with a regular audit of work.
 
-Paulo and his colleagues next explored a method to link the job skills defined in JI via the Job Breakdown Sheets with a regular audit of work. after people are trained, how well are they able to follow the steps, with the proper technique? Regular audits translate to a picture of performance; a display board enables everyone to see the state of compliance with the core work skills in the clinical unit, week by week.
+After people are trained, how well are they able to follow the steps, with the proper technique? Regular audits translate to a picture of performance; a display board enables everyone to see the state of compliance with the core work skills in the clinical unit, week by week. Adherence to the standard is rated as pass (Green) or fail (Red). A card corresonding to the audit is then placed on a summary display board in the unit.
 
-Furthermore, each clinical unit then can summarize weekly performance to a control chart showing the per cent of audit opportunities that d
+Furthermore, each clinical unit then can summarize weekly performance to a control chart showing the per cent of audit opportunities that are either Red or Green.
 
-Link standard work and job skills to Kamishibai Method
+One innovation: use AI tools to reduce manual effort in translating the weekly performance into control chart calculation.
 
-Major benefits of the method
+**Link standard work and job skills to Kamishibai Method**
+
+Major benefits of the method:
 
 -   regular audit of the fundamental skills—emphasize that could be done by ANYONE. CEO could take a card and go see. There is typically a schedule to go observe. If no safety issue, and a deviation, then debrief afterwards. If safety issue STOP and correct. Operationalizes Quality Control within Operations!!
 
@@ -205,15 +198,57 @@ Major benefits of the method
 
 -   much faster signaling than the previous monthly reporting cycle on bundle compliance.
 
-## Deeper Dive on the Elements of the Management System
+**Question for the audience: how could Kamishibai method work in your ED?**
+
+# Deeper Dive on Elements of the Management System
 
 KL idea: highlight how each element either contributes to the QC system OR amplifies problems
 
-### 1. Agree on the work
+## Agree on the work
 
-### 2. Teach skills to do the work (JI Method) {#teach-skills-to-do-the-work-ji-method}
+Agreement on the instructions is the foundation of quality control.
 
-Job Instruction is just one of part of the Training Within Industry curriculum.
+How do you characterize the desired outcomes embodied by your products or services?
+
+The definition of quality gets translated into sets of instructions your organization will use to produce the outcomes:
+
+-   the characteristics of the product or service,
+
+-   the conditions of equipment and the environment that support production, and
+
+-   the step by step operations by people to make everything happen.
+
+The instructions are referred to as work standards, which are the foundation of standard work defined above.
+
+The Quality Control cycle during operations requires that we set up operations in two ways:
+
+(1) make it easy to see any differences when you contrast the outcomes and process of actual operations with the work standards and
+
+(2) catch and reduce differences by corrective actions.
+
+Isao Kato, a key associate of Taiichi Ohno at Toyota starting in the 1950's, summarized the essence of Quality Control in his "Step-ups" Model.
+
+![](images/Step-ups-1.png)
+
+In Kato's model:
+
+-   Step up 1 defines Normal--what you expect, in the sense of a 'Norm'.
+
+-   Step up 2: Make it easy to see the difference between Normal and Abnormal. Step up 2 enables you to see problems!
+
+-   Step Up 3: Problem solve (reduce the gap) between Normal and Abnormal.
+
+-   Step up 4: Refine the workflow to drive out waste and develop skills of people.
+
+-   Step up 5: Assure the continued health of the first four step ups.
+
+Step ups 1-3 are the core activities of standard work. Step up 4 and Step up 5 merge with the elements of the overall management of operations. See <https://www.iecodesign.com/blog/2021/1/13/work-standard-and-standard-work> for further discussion.
+
+Here's an illustration of work standards from the ICU project, Phase 2
+
+## Teach skills to do the work (JI Method) {#teach-skills-to-do-the-work-ji-method}
+
+Job Instruction is one of part of the Training Within Industry curriculum.
 
 ![](images/TWI-1.png){width="500"}
 
@@ -239,25 +274,25 @@ Here are images of the World War II era pocket cards for JM and JR, to complemen
 
 ![](images/TWI-2.png)
 
-### 3. Amplify problems
+## Amplify problems
 
 Refer to Kim and Spear use of the term
 
-#### Huddles
+### Huddles
 
-#### Gemba Walks
+### Gemba Walks
 
-#### Kamishibai Method
+### Kamishibai Method
 
-#### Individual Problem Reporting
+### Individual Problem Reporting
 
-### 4 Assign and Solve Problems
+## Assign and solve problems
 
 Problem-solving is not an occasional activity; there is a weekly cycle of identification and assignment. Dividing the set into Just Do It and Structured Problem Solving.
 
 Key point: if the same Just Do It problem recurs more than X times (X = 3?) then it deserves more analysis (don't keep adjusting something that shouldn't keep breaking.)
 
-### 5 Make performance Visible
+## Make performance visible
 
 #### The analog board
 
@@ -265,10 +300,48 @@ Why not just keep everything in the computer?
 
 #### Reducing analog burden to convert Kamishibai record to a control chart.
 
-## Tips for Management System upgrades
+# Appendix
+
+## Tips for Improving a Management System
 
 1.  Take our own advice: Test on a small scale. E.g. take one bundle related to one condition in the ED project. Develop the Job Breakdown Sheets, determine how Kamishibai method could work.
-2.  Embrace simulations (refer to Kim and Spear, too.)
+2.  Embrace simulations (refer to Kim and Spear, too.) You Tube video McDonald simulation.
+
+## What about Quality Planning?
+
+If you are familiar with Joseph Juran's Quality Trilogy, Quality Planning complements Quality Improvement and Quality Control.
+
+Importantly, Juran insisted that Quality Control be done during operations, not after. In other words, Quality Control is not inspection of results and repair or fixing after the product or service is complete.
+
+![](images/WSQ%20Juran%20Trilogy.png){width="500"}
+
+Quality Planning is the way an organization identifies areas of opportunity and change related to strategy and markets, including listening to customers. Quality Planning is not reacting to immediate operational problems. Quality Planning addresses design of new products and services and the translation of the design into production through initial experiments and pilot-scale operations.
+
+While we won't address Quality Planning today, we believe that Quality Planning must rest on understanding the health and performance of operations and on an effective Quality Control system.
+
+You see that the Kano diagram does not show a role for Quality Planning. For example, the Kano diagram does not show a path of improvement projects that emerge from Quality Planning rather than responses to operational problems.
+
+[Example:]{.underline} The rapid pivot in 2020 to COVID protocols in clinical settings is an example of an exogenous change that drove changes to operations. Healthcare organizations with robust QC systems adapted quickly and more safely relative to other organizations. (Baptist Health, Skip Steward, <https://www.lean.org/the-lean-post/articles/building-a-learning-organization-kata-webinar-snippet/>).
+
+#### 
+
+## Presenters
+
+Paulo
+
+Kevin
+
+## Sources of influence
+
+Our thinking and consultation practice has several major influences. You may be familiar with one or more of the following. We think the least familiar to most people is the Training Within Industry (TWI) approach to front-line operations. We'll provide a brief introduction to TWI in our session.
+
+-   Deming through API and IHI (Model for Improvement, System of Profound Knowledge);
+
+-   Juran (Juran Trilogy, the definition of self-control);
+
+-   Lean approach to design and deployment of production systems (various authors list) and advice on specific elements of operations management;
+
+-   Training Within Industry skills for supervisors and management.
 
 ## For Further Study
 
@@ -278,4 +351,4 @@ Patrick Graupp and Martha Purrier (2022), *Getting to Standard Work in Health Ca
 
 Gene Kim and Steven J. Spear (2023), *Wiring the Winning Organization*, IT Revolution, Portland, OR.
 
-#### 
+Direct application of lean manufactruing principles may not yield insights in every clinical application (Lillrank)
