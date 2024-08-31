@@ -1,12 +1,15 @@
 ---
-title: "MCIC Notes"
+title: "Shared Learning: Basics of Large-Scale Systems Improvement"
+author: "Paulo Borem, MD and Kevin Little, Ph.D."
 format: pdf
+date: last-modified
+date-format: "[Last Updated on] DD MMMM, YYYY"
 editor: visual
 css:  styles.css
 toc: true
 ---
 
-# Shared Learning: Basics of Large-Scale Systems Improvement
+# MCIC Presentation Notes
 
 ## Introduction
 
@@ -16,7 +19,7 @@ In 2024, emergency departments in the U.S. have high demand for care and subsequ
 
 Paulo Borem has extensive experience with large-scale improvement interventions in Brazil, Portugal and X \[the RIE experiment?\]. He is launching a project with 11 EDs in Sao Paulo Brazil and will apply his experience in previous projects to the ED environment.
 
-## Our Common Experience with Improvement Projects
+## Our common experience with improvement projects
 
 Have you experienced an improvement project that failed? There are many ways a project might fail. Some projects never get off the ground or an initial great idea doesn't deliver improvement in local tests.
 
@@ -40,7 +43,7 @@ Some of our failure modes include:
 
 How can we prevent these failure modes? We'll present what Paulo has learned and current applications.
 
-## A Look at the ICU Project 2018-2021--A "failure"
+## A look at the ICU Project 2018-2021--A "failure"?
 
 Paulo helped to design and lead a large-scale project to reduce hospital-acquired infections in 118 public hospital ICU units in Brazil. The project achieved more than a 50% reduction in HAI averaged across the ICU units through deployment of specific infection prevention "bundles".
 
@@ -52,13 +55,13 @@ Paulo and his project colleagues embarked on a journey to explore different and 
 
 ![](images/ICU%20slide%201.png){.img-border width="500"}
 
-Prmopted by the Ministry of Health's criticism, Paulo next designed an revised intervention to improve maternal mortality and morbidity, focused on interventions in Emergency Departments.
+Prompted by the Ministry of Health's criticism, Paulo next designed an revised intervention to improve maternal mortality and morbidity, focused on interventions in Emergency Departments.
 
 He extended his design by adding more tools and approaches with a new phase of work to reduce infections in ICUs, both in Brazil and Portugal.
 
 The three new projects allowed him to test new ways to improve operations and sustain those improvements. We'll give you a brief look at each of these projects.
 
-## Two Mind Shifts are the foundation of Paulo's new approach
+## Two mind shifts for Paulo's new approach
 
 Paulo's mind has shifted since 2019 in two major ways as he develops large-scale improvement projects:
 
@@ -76,17 +79,17 @@ What's your experience in understanding the connection between Quality Improveme
 
 Different quality experts have stressed QI and QC integration for decades but we didn't understand the implications as deeply as we do now.
 
-For example, here's a diagram sketched by Dr. Noriaki Kano, an expert in Japanese Total Quality Control in 1991:
+For example, here's a diagram based on a sketch in 1991 by Dr. Noriaki Kano, an expert in Japanese Total Quality Control:
 
 ![](images/imageKano.png){.img-border width="500"}
 
-In the Kano diagram, Quality Control is the beginning and end of Quality Improvement. Quality Control itself is a cycle that starts with Standard Work.
+In the diagram, Quality Control is the beginning and end of Quality Improvement. Quality Control itself is a cycle that starts with Standard Work.
 
 "Standard work is a verb and not a noun....Standard work is meant to be a hypothesis to test the results of everyone doing something in the same way all the time....Standard work, therefore, is not the destination itself but simply a *tool* along the way in our endless quest to find the best, safest, and easiest way to deliver patient care." (*Getting to Standard Work in Health Care*, 2nd edition, p. 27).
 
 Sustaining Quality Improvement requires a foundation in standard work. The foundation of standard work is the work standard: for each step in a care process, what is the job and how should it be done?
 
-Paulo's experience with the Maternal Mortality Project opened the door to better ways to define and teach jobs.
+Paulo's experience with the Maternal Mortality Project opened the door to better ways to define and teach jobs through clear work standards.
 
 #### Quality Controls builds capacity for Quality Improvement
 
@@ -112,7 +115,7 @@ How can you modify your existing management system to make problems more visible
 
 The second phase of Paulo's ICU Improvement Project used several methods to make problems more visible, including a way to contrast the plan for core work with what people actually do, in real-time.
 
-## More on Improvement Projects
+## More on improvement projects
 
 ### A new project: improving performance of 11 EDs in Sao Paulo, Brazil
 
@@ -126,7 +129,7 @@ Here's a summary of the management system being designed for the ED project.
 
 You are likely to be familiar with and may be using a version of one of more of the elements in your EDs.
 
-### Lesson from the Maternal Mortality Project 2019-2021: Agree on the work, Teach the work
+### Lesson from the Maternal Mortality Project 2019-2021: agree on the work, teach the work
 
 The management system proposed for the ED project emerged from two other sets of interventions.
 
@@ -176,7 +179,7 @@ The instructor uses a well-defined teaching sequence that involves showing the i
 
 Paulo's experience: People resist the systematic way of training at the beginning! When they understand the impact, they will adopt it.
 
-### Lesson from ICU Phase 2 Project, 2021-2024: Make problems easy to see
+### Lesson from ICU Phase 2 Project, 2021-2024: make problems easy to see
 
 Paulo and his colleagues next explored a method to link the job skills defined by Job Breakdown Sheets with a regular audit of work.
 
@@ -200,7 +203,7 @@ Major benefits of the method:
 
 **Question for the audience: how could Kamishibai method work in your ED?**
 
-# Deeper Dive on Elements of the Management System
+# Deeper dive on elements of the management system
 
 KL idea: highlight how each element either contributes to the QC system OR amplifies problems
 
@@ -282,9 +285,9 @@ Refer to Kim and Spear use of the term
 
 ### Gemba Walks
 
-### Kamishibai Method
+### Kamishibai method
 
-### Individual Problem Reporting
+### Individual problem reporting
 
 ## Assign and solve problems
 
@@ -294,15 +297,19 @@ Key point: if the same Just Do It problem recurs more than X times (X = 3?) then
 
 ## Make performance visible
 
-#### The analog board
+### Performance measures
+
+What belongs on the board?
+
+### An analog board
 
 Why not just keep everything in the computer?
 
-#### Reducing analog burden to convert Kamishibai record to a control chart.
+#### 
 
 # Appendix
 
-## Tips for Improving a Management System
+## Tips for improving a management system
 
 1.  Take our own advice: Test on a small scale. E.g. take one bundle related to one condition in the ED project. Develop the Job Breakdown Sheets, determine how Kamishibai method could work.
 2.  Embrace simulations (refer to Kim and Spear, too.) You Tube video McDonald simulation.
