@@ -13,15 +13,17 @@ toc: true
 
 ## Introduction
 
+Paulo Borem, MD has extensive experience with large-scale healthcare improvement interventions in Brazil, Portugal and multi-nation projects in Africa. He is launching He will apply his experience in previous projects, most recently in reducing infections in the ICU setting, to a new project with 11 EDs in Sao Paulo Brazil, planned to start this quarter. Paulo has developed a management system to increase the odds that improvements will be sustained over time. He will share his experience and insights with us today.
+
 ### The ED environment
 
-In 2024, emergency departments in the U.S. have high demand for care and subsequent challenges to maintain high levels of safe, effective and efficient care. The care environment is characterized by a fast pace and diversity of patient conditions that vary across ED locations. Changes to improve performance in other care settings, like the ICU or surgical suites, may need adapting to yield improvements in the ED.
+The ED care environment is characterized by a fast pace and diversity of patient conditions. In 2024, most emergency departments in the U.S. also face high demands for service. High demands for care increase the challenges for safety, effectiveness and efficiency. How can ED leaders continue to improve performance in this environment?
 
-Paulo Borem has extensive experience with large-scale improvement interventions in Brazil, Portugal and X \[the RIE experiment?\]. He is launching a project with 11 EDs in Sao Paulo Brazil and will apply his experience in previous projects to the ED environment.
+While the ED environment differs in important ways from other clinical setting, changes that have shown promise in other settings may work, with appropriate adaptation. The presentation today will invite your questions and perspectives to explore a set of changes to management of clincal operations.
 
 ## Our common experience with improvement projects
 
-Have you experienced an improvement project that failed? There are many ways a project might fail. Some projects never get off the ground or an initial great idea doesn't deliver improvement in local tests.
+Have you experienced an improvement project that failed? There are many ways a project might fail. Some projects never get off the ground or an initial great idea that worked in someone else's ED doesn't deliver improvement in local tests where you practice.
 
 Let's focus on projects that showed promise initially but could not be sustained over time.
 
@@ -145,7 +147,11 @@ The MMP focused on reducing birth-associated mortality in the ED. The project wa
 
 ![](images/MM-4.png){width="500"}
 
-The MMP project team identified a high leverage process, "4Rs to Rescue."
+#### Quick look at results of the project through 2021
+
+![](images/MatMortResults.png){width="500"}
+
+How did the proThe MMP project team identified a high leverage process, "4Rs to Rescue." High leverage means that a small amount of change effort appeared likely to cause a large change in maternal mortality.
 
 ![](images/Maternal%20Mortality%20Core%20Process.png){width="500"}
 
@@ -179,15 +185,33 @@ The instructor uses a well-defined teaching sequence that involves showing the i
 
 Paulo's experience: People resist the systematic way of training at the beginning! When they understand the impact, they will adopt it.
 
-### Lesson from ICU Phase 2 Project, 2021-2024: make problems easy to see
+### Lesson from ICU Phase 2 Project, 2023-2024: make problems easy to see (and solve)
 
-Paulo and his colleagues next explored a method to link the job skills defined by Job Breakdown Sheets with a regular audit of work.
+Paulo and his colleagues continued to apply the Job Instruction methods to the ICU Phase 2 Project, aimed to reduce hospital acquired infections. Again, the project designers working with staff adapted bundles of care for the different conditions first developed in the ICU Phase 1 Project.
 
-After people are trained, how well are they able to follow the steps, with the proper technique? Regular audits translate to a picture of performance; a display board enables everyone to see the state of compliance with the core work skills in the clinical unit, week by week. Adherence to the standard is rated as pass (Green) or fail (Red). A card corresonding to the audit is then placed on a summary display board in the unit.
+In the ICU Phase 2 project, they explored a method to link the job skills defined by Job Breakdown Sheets with a regular audit of work. This approach, called the Kamishibai method, is a way to make problems with the core job skills visible to everyone in the unit.
+
+After people are trained, how well are they able to follow the steps, with the proper technique?
+
+Regular audits yield a picture of performance. A display board enables everyone to see the state of compliance with the core work skills in the clinical unit, week by week. Adherence to the standard is rated as pass (Green) or fail (Red). A card corresonding to the audit is then placed on a summary display board in the unit.
 
 Furthermore, each clinical unit then can summarize weekly performance to a control chart showing the per cent of audit opportunities that are either Red or Green.
 
-One innovation: use AI tools to reduce manual effort in translating the weekly performance into control chart calculation.
+**Paulo's Reflections on Kamishibai method:**
+
+-   'Kamishibai moves the action/response to deviations from normal bundle practice into daily base instead of monthly based (after creation of run chart at the end of the month)​
+
+-   No variation among hospital to decide if there was compliance or not to the element of the bundle (JBS, process instruction and Kamishibai card)​
+
+-   It is more time consuming at the beginning but will save time and improve the care​
+
+-   It is very cheap (\< U\$ 10 to create Kamishibai)​
+
+-   Problems became annoyingly visible (red for not compliant)​
+
+Learning curve
+
+**One innovation** now planned (first test in multi-country project in Africa, launched this month): use AI tools to reduce manual effort in translating the weekly performance into control chart calculation.
 
 **Link standard work and job skills to Kamishibai Method**
 
@@ -311,7 +335,10 @@ Why not just keep everything in the computer?
 
 ## Tips for improving a management system
 
-1.  Take our own advice: Test on a small scale. E.g. take one bundle related to one condition in the ED project. Develop the Job Breakdown Sheets, determine how Kamishibai method could work.
+1.  Take our own advice: Test on a small scale. E.g. take one bundle related to one condition in the ED project. Develop the Job Breakdown Sheets, determine how Kamishibai method could work. "Testing on a small scale" builds confidence and know how and contains risks of failure. Table 7.1?
+
+Link to "Model Cell" language. Kim and Spear theory.
+
 2.  Embrace simulations (refer to Kim and Spear, too.) You Tube video McDonald simulation.
 
 ## What about Quality Planning?
@@ -334,9 +361,13 @@ You see that the Kano diagram does not show a role for Quality Planning. For exa
 
 ## Presenters
 
-Paulo
+Paulo Borem, MD has practiced as a vascular surgeon. He has served as a Patient Safety Officer, Improvement Advisor, and directed multiple improvement Collaboratives. He is currently a Senior Director at the Institute for Healthcare Improvement leading projects in Brazil, Portugal and Mozambique​
 
-Kevin
+pborem\@ihi.org
+
+Kevin Little, Ph.D. (statistics) has worked as an improvement advisor in health care projects since 2001. As a senior Improvement Advisor with the Institute for Healthcare Improvement, he has recently worked on projects X, Y, Z. He is currently an improvement advisor to a project funded by the West Institute that integrating ACOs and Geriatric EDS .
+
+klittle\@iecodesign.com www.iecodesign.com
 
 ## Sources of influence
 
@@ -350,12 +381,18 @@ Our thinking and consultation practice has several major influences. You may be 
 
 -   Training Within Industry skills for supervisors and management.
 
-## For Further Study
+## For further study \[or references?\]
 
 Donald Dinero (2005), *Training Within Industry: the foundation of Lean*, Productivity Press, New York.
 
 Patrick Graupp and Martha Purrier (2022), *Getting to Standard Work in Health Care: Using TWI to Create a Foundation for Quality Care*, Routledge, Boca Raton, FL.
 
+report on TWI 1940-1945
+
 Gene Kim and Steven J. Spear (2023), *Wiring the Winning Organization*, IT Revolution, Portland, OR.
 
-Direct application of lean manufactruing principles may not yield insights in every clinical application (Lillrank)
+[Papers published on ICU Phase 1, Maternal Mortality, Portugal ICU and wards, ICU Phase 2]{.underline}
+
+Direct application of lean manufacturing experience may not yield insights in every clinical application (Lillrank)
+
+IHI Whitepapers
