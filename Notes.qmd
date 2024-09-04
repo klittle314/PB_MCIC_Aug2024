@@ -13,19 +13,21 @@ toc: true
 
 ## Introduction
 
-Paulo Borem, MD has extensive experience with large-scale healthcare improvement interventions in Brazil, Portugal and multi-nation projects in Africa. He is launching He will apply his experience in previous projects, most recently in reducing infections in the ICU setting, to a new project with 11 EDs in Sao Paulo Brazil, planned to start this quarter. Paulo has developed a management system to increase the odds that improvements will be sustained over time. He will share his experience and insights with us today.
+Paulo Borem, MD has extensive experience with large-scale healthcare improvement interventions in Brazil, Portugal and multi-nation projects in Africa. He will apply his experience to a new project with 11 EDs in Sao Paulo Brazil. The ED project will launch before the end of 2024. Paulo and his colleagues have deployed management systems to increase the odds that improvements will be sustained over time. He will share his experience and insights with us today.
 
 ### The ED environment
 
-The ED care environment is characterized by a fast pace and diversity of patient conditions. In 2024, most emergency departments in the U.S. also face high demands for service. High demands for care increase the challenges for safety, effectiveness and efficiency. How can ED leaders continue to improve performance in this environment?
+The ED care environment is characterized by a fast pace and diversity of patient conditions. In 2024, most emergency departments in the U.S. also face high demands for service. High daily demand increases the challenges for safety, effectiveness and efficiency. How can ED leaders continue to improve performance in this environment?
 
-While the ED environment differs in important ways from other clinical setting, changes that have shown promise in other settings may work, with appropriate adaptation. The presentation today will invite your questions and perspectives to explore a set of changes to management of clincal operations.
+While the ED environment differs in important ways from other clinical setting, changes that have shown promise in other settings may work, with appropriate adaptation. The presentation today will invite your questions and perspectives to explore a set of changes to management of clinical operations that we believe are relevant to EDs.
 
 ## Our common experience with improvement projects
 
 Have you experienced an improvement project that failed? There are many ways a project might fail. Some projects never get off the ground or an initial great idea that worked in someone else's ED doesn't deliver improvement in local tests where you practice.
 
 Let's focus on projects that showed promise initially but could not be sustained over time.
+
+![](images/Improvement%20Question%201.png){width="500"}
 
 What's your story?
 
@@ -43,19 +45,21 @@ Some of our failure modes include:
 
 -   We proposed changes that the front-line staff don't think matters.
 
-How can we prevent these failure modes? We'll present what Paulo has learned and current applications.
+How can we prevent these failure modes? We'll present what Paulo has learned over the past five years.
 
 ## A look at the ICU Project 2018-2021--A "failure"?
 
 Paulo helped to design and lead a large-scale project to reduce hospital-acquired infections in 118 public hospital ICU units in Brazil. The project achieved more than a 50% reduction in HAI averaged across the ICU units through deployment of specific infection prevention "bundles".
 
-However, the project had a fundamental weakness. The method to achieve the lower HAI rates depended on a burdensome feedback cycle. After 12 months, almost all ICU units had stopped collecting data on adherence to the use of the bundles. The Ministry of Health requested a new initiative with 200 ICUs but anticipated that the good results would fade as the units no longer could see and react to data on the fidelity of bundle use.
+![](images/ICU%20slide%201.png){.img-border width="500"}
 
-The Ministry of Health asked for a change in methods to address this fundamental issue.
+However, the project had a fundamental weakness. The method to achieve the lower HAI rates depended on a burdensome feedback cycle. After 12 months, almost all ICU units had stopped collecting data on adherence to the use of the care bundles that formed the foundation of the project.
+
+The Ministry of Health in Brazil requested a new initiative with 200 ICUs but anticipated that the good results would fade if the ICUs no longer could see and react to data on the fidelity of bundle use.
+
+The Ministry of Health thus asked for a change in methods to address this fundamental issue.
 
 Paulo and his project colleagues embarked on a journey to explore different and novel ways to control quality.
-
-![](images/ICU%20slide%201.png){.img-border width="500"}
 
 Prompted by the Ministry of Health's criticism, Paulo next designed an revised intervention to improve maternal mortality and morbidity, focused on interventions in Emergency Departments.
 
@@ -65,7 +69,7 @@ The three new projects allowed him to test new ways to improve operations and su
 
 ## Two mind shifts for Paulo's new approach
 
-Paulo's mind has shifted since 2019 in two major ways as he develops large-scale improvement projects:
+Paulo's mind has shifted as he develops and deploys large-scale improvement projects:
 
 -   Quality Improvement must integrate with Quality Control
 
@@ -117,9 +121,9 @@ How can you modify your existing management system to make problems more visible
 
 The second phase of Paulo's ICU Improvement Project used several methods to make problems more visible, including a way to contrast the plan for core work with what people actually do, in real-time.
 
-## More on improvement projects
+##  Improvement projects since ICU Phase 1
 
-### A new project: improving performance of 11 EDs in Sao Paulo, Brazil
+### Just Starting: improving performance of 11 EDs in Sao Paulo, Brazil
 
 Paulo and his colleagues are designing a learning community that aims to improve care in 11 EDs. Leaders in the 11 EDs will clarify several elements of care as they define standard work. The leaders in the EDs will also make it much easier to see and solve problems.
 
@@ -151,23 +155,27 @@ The MMP focused on reducing birth-associated mortality in the ED. The project wa
 
 ![](images/MatMortResults.png){width="500"}
 
-How did the proThe MMP project team identified a high leverage process, "4Rs to Rescue." High leverage means that a small amount of change effort appeared likely to cause a large change in maternal mortality.
+The MMP project team identified a high leverage process, "4Rs to Rescue." High leverage means that a small amount of change effort appeared likely to cause a large change in maternal mortality.
 
 ![](images/Maternal%20Mortality%20Core%20Process.png){width="500"}
 
-The project team then developed bundles of care used to rescue. To reduce variation in the way staff carried out the bundles, the project team applied a new way, "Job Instruction" to train staff in the key steps within each of the 4R process blocks.
+To achieve the clear aim (work standard) for care of pregnant women, the project team developed specific bundles of care used to rescue.
+
+To reduce variation in the way staff carried out the bundles, the project team applied a new way, "Job Instruction" to train staff in the key steps within each of the 4R process blocks.
+
+![](images/MM New and bundle.png){width="500"}
 
 #### Job Instruction
 
-Job Instruction (JI) is one of the core methods in the Training Within Industry (TWI). We'll say a bit more about TWI later in this session if we have time; go to [2. Teach skills to do the work (JI Method)](#teach-skills-to-do-the-work-ji-method) to learn more.
+Job Instruction (JI) is one of the core methods in the Training Within Industry (TWI). We'll say a bit more about TWI later in this session if we have time; go to [Teach skills to do the work (JI Method)]) to learn more.
 
 JI requires one-to-one teaching.
 
-The instructor systematically demonstrates the job and offers the and then watches the person being instructed carry out the key steps
+![](images/JI-1 revised.png)
 
-![](images/JI-1.png){width="500"}
+The instructor systematically demonstrates the job and offers the and then watches the person being instructed carry out the key steps.
 
-The instructor uses a Job Breakdown Sheet to train each person, 1-1.
+The instructor uses a Job Breakdown Sheet in the 1-1 training.
 
 ![](images/JI-2.png){width="500"}
 
@@ -175,7 +183,7 @@ The instructor uses a well-defined teaching sequence that involves showing the i
 
 **What did Paulo's teams learn from JI application, what are the benefits?**
 
--   Everyone has clarity about the core jobs. New people can learn the important steps and carry out the work in the same way as current staff.
+-   Everyone has clarity about the core jobs. New people can learn the important steps along with key points. The key points inform people about how-to and carry out the work in the same way as current staff, using the know-how (current best approach.)
 
 -   People know why they are doing specific tasks a certain way. Knowing why helps to cement the lessons and provides the basis for future modification of work standards.
 
@@ -211,13 +219,13 @@ Furthermore, each clinical unit then can summarize weekly performance to a contr
 
 Learning curve
 
-**One innovation** now planned (first test in multi-country project in Africa, launched this month): use AI tools to reduce manual effort in translating the weekly performance into control chart calculation.
+**One innovation** now planned for a first test in multi-country project in Africa, launched this month: use AI tools to reduce manual effort in translating the weekly performance into control chart calculation.
 
 **Link standard work and job skills to Kamishibai Method**
 
-Major benefits of the method:
+Paulo summarizes the Major benefits of the Kamishibai method:
 
--   regular audit of the fundamental skills—emphasize that could be done by ANYONE. CEO could take a card and go see. There is typically a schedule to go observe. If no safety issue, and a deviation, then debrief afterwards. If safety issue STOP and correct. Operationalizes Quality Control within Operations!!
+-   The regular audit of the fundamental skills can be done by anyone with appropriate knowledge. The CEO could take a card and observe. There is typically a schedule to go observe. If no safety issue, and a deviation, then debrief afterwards. If safety issue STOP and correct. Operationalizes Quality Control within Operations!!
 
 -   regular coaching/intervention to align performance with desired state (normal)
 
@@ -233,15 +241,15 @@ KL idea: highlight how each element either contributes to the QC system OR ampli
 
 ## Agree on the work
 
-Agreement on the instructions is the foundation of quality control.
+Agreement on the details of specific jobs that produce products and services is the foundation of quality control.
 
 How do you characterize the desired outcomes embodied by your products or services?
 
 The definition of quality gets translated into sets of instructions your organization will use to produce the outcomes:
 
--   the characteristics of the product or service,
+-   the characteristics of the product or service you intend to produce;
 
--   the conditions of equipment and the environment that support production, and
+-   the conditions of equipment and the environment that support production;
 
 -   the step by step operations by people to make everything happen.
 
@@ -272,6 +280,14 @@ In Kato's model:
 Step ups 1-3 are the core activities of standard work. Step up 4 and Step up 5 merge with the elements of the overall management of operations. See <https://www.iecodesign.com/blog/2021/1/13/work-standard-and-standard-work> for further discussion.
 
 Here's an illustration of work standards from the ICU project, Phase 2
+
+![](images/Work2.PNG){width="500"}
+
+![](images/Work3.PNG){width="500"}
+
+![](images/Work4.PNG){width="500"}
+
+![](images/Work5.PNG){width="500"}
 
 ## Teach skills to do the work (JI Method) {#teach-skills-to-do-the-work-ji-method}
 
@@ -313,29 +329,49 @@ Refer to Kim and Spear use of the term
 
 ### Individual problem reporting
 
+![](images/Problem%20Report%20Sheet.png){width="500"}
+
 ## Assign and solve problems
 
 Problem-solving is not an occasional activity; there is a weekly cycle of identification and assignment. Dividing the set into Just Do It and Structured Problem Solving.
 
 Key point: if the same Just Do It problem recurs more than X times (X = 3?) then it deserves more analysis (don't keep adjusting something that shouldn't keep breaking.)
 
+Is there an agenda for weekly review? 
+
+1.  how many problems do we have?
+2.  Sort in the 2 x 2 matrix impact vs feasibility.
+3.  Who: RN and MD supervior and front-line rep on the project. Also Pharmacy may come and go.  
+4.  20 minutes
+5.  Management Board shows projects and the help chain, end date and status. See Solve and A3. Leave up to the unit on the number of new projects to add.
+
+Who does it? 
+
+How are assignments made?  
+
+How long does the weekly review take?   Where is the status of projects shown?   Usual advice is to LIMIT THE NUMBER OF IMPROVEMENT PROJECTS to N (N\<=5).  YOU CAN’T START ANOTHER PROJECT UNTIL ONE PREVIOUS PROJECT IS FINISHED
+
 ## Make performance visible
 
 ### Performance measures
 
-What belongs on the board?
+What belongs on the board? core measures during collab.
 
 ### An analog board
 
 Why not just keep everything in the computer?
 
-#### 
+"The system needs to speak to you." The computer is not accessible to everyone. YOu have to log in, find the right place...people give up! When it is on the wall, you can't escape everyone sees the same thing.
+
+Thhe benefits outweigh \~10 minute a day to keep up the board
+
+During the collab, the RN leader has the job to keep the board updated. Outside the collab, the unit leader has the job.
 
 # Appendix
 
 ## Tips for improving a management system
 
-1.  Take our own advice: Test on a small scale. E.g. take one bundle related to one condition in the ED project. Develop the Job Breakdown Sheets, determine how Kamishibai method could work. "Testing on a small scale" builds confidence and know how and contains risks of failure. Table 7.1?
+1.  Take the usual advice in change management: Test on a small scale. E.g. take one bundle related to one condition in the ED project. Develop the Job Breakdown Sheets, determine how Kamishibai method could work. "Testing on a small scale" builds confidence and know how and contains risks of failure. Table 7.1?
 
 Link to "Model Cell" language. Kim and Spear theory.
 
@@ -361,13 +397,9 @@ You see that the Kano diagram does not show a role for Quality Planning. For exa
 
 ## Presenters
 
-Paulo Borem, MD has practiced as a vascular surgeon. He has served as a Patient Safety Officer, Improvement Advisor, and directed multiple improvement Collaboratives. He is currently a Senior Director at the Institute for Healthcare Improvement leading projects in Brazil, Portugal and Mozambique​
+**Paulo Borem, MD** has practiced as a vascular surgeon. He is a Senior Director of the Institute for Healthcare Improvement (IHI), an Improvement Advisor, and a Patient Safety Officer (PSO) certified by IHI. Dr. Borem has led more than 15 large-scale initiatives in Portugal, Brazil, and Africa to reduce hospital-acquired infections, maternal deaths, unnecessary cesarean sections, and post-operative deaths and improve Joy in Work. He is also responsible for IHI's Improvement Specialist training courses in Portuguese-speaking countries. Dr. Borem is trained in Job Instruction, Job Relations and Job Methods by the TWI Institute. Contact: pborem\@ihi.org
 
-pborem\@ihi.org
-
-Kevin Little, Ph.D. (statistics) has worked as an improvement advisor in health care projects since 2001. As a senior Improvement Advisor with the Institute for Healthcare Improvement, he has recently worked on projects X, Y, Z. He is currently an improvement advisor to a project funded by the West Institute that integrating ACOs and Geriatric EDS .
-
-klittle\@iecodesign.com www.iecodesign.com
+**Kevin Litttle, Ph.D.** (statistics) has worked as an improvement advisor to health care projects since 2001. As a senior Improvement Advisor with the Institute for Healthcare Improvement, he has recently worked on projects X, Y, Z. He is currently an improvement advisor to a project funded by the West Institute aims to reduce hospital admissions through integration of care by ACOs and Geriatric EDs in the United States . Contact: klittle\@iecodesign.com.
 
 ## Sources of influence
 
