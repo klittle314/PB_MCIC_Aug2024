@@ -19,7 +19,7 @@ Paulo Borem, MD has extensive experience with large-scale healthcare improvement
 
 The ED care environment is characterized by a fast pace and diversity of patient conditions. In 2024, most emergency departments in the U.S. also face high demands for service. High daily demand increases the challenges for safety, effectiveness and efficiency. How can ED leaders continue to improve performance in this environment?
 
-While the ED environment differs in important ways from other clinical setting, changes that have shown promise in other settings may work, with appropriate adaptation. The presentation today will invite your questions and perspectives to explore a set of changes to management of clinical operations that we believe are relevant to EDs.
+While the ED environment differs in important ways from other clinical settings, changes that have shown promise in other settings may work in your ED, with appropriate adaptation. The presentation today will invite your questions and perspectives to explore a set of changes to management of clinical operations that we believe are relevant to EDs.
 
 ## Our common experience with improvement projects
 
@@ -49,27 +49,27 @@ How can we prevent these failure modes? We'll present what Paulo has learned ove
 
 ## A look at the ICU Project 2018-2021--A "failure"?
 
-Paulo helped to design and lead a large-scale project to reduce hospital-acquired infections in 118 public hospital ICU units in Brazil. The project achieved more than a 50% reduction in HAI averaged across the ICU units through deployment of specific infection prevention "bundles".
+Paulo helped to design and lead a large-scale project to reduce hospital-acquired infections in 118 public hospital ICU units in Brazil. Over two years, the project achieved more than a 50% reduction in HAI averaged across the ICU units. The main intervention deployed specific infection prevention "bundles."
 
 ![](images/ICU%20slide%201.png){.img-border width="500"}
 
 However, the project had a fundamental weakness. The method to achieve the lower HAI rates depended on a burdensome feedback cycle. After 12 months, almost all ICU units had stopped collecting data on adherence to the use of the care bundles that formed the foundation of the project.
 
-The Ministry of Health in Brazil requested a new initiative with 200 ICUs but anticipated that the good results would fade if the ICUs no longer could see and react to data on the fidelity of bundle use.
+The Ministry of Health in Brazil wanted to have more ICUs reduce infection rates. However, it seemed likely that initia good results would fade if the ICUs did not have a method to sustain use of the bundles through effective feedback.
 
-The Ministry of Health thus asked for a change in methods to address this fundamental issue.
+The Ministry of Health asked for a change in methods to address this fundamental issue.
 
-Paulo and his project colleagues embarked on a journey to explore different and novel ways to control quality.
+Paulo and his project colleagues embarked on a journey to explore different and novel ways to address sustainability of their interventions.
 
-Prompted by the Ministry of Health's criticism, Paulo next designed an revised intervention to improve maternal mortality and morbidity, focused on interventions in Emergency Departments.
+Prompted by the Ministry of Health's criticism, Paulo and his colleagues next designed and deployed a project to improve maternal mortality and morbidity, focused on interventions in Emergency Departments.
 
-He extended his design by adding more tools and approaches with a new phase of work to reduce infections in ICUs, both in Brazil and Portugal.
+He extended the design used in the Maternal Mortality project in new projects that aimed to reduce infections in ICUs in Brazil and in ICUs and wards in Portugal.
 
 The three new projects allowed him to test new ways to improve operations and sustain those improvements. We'll give you a brief look at each of these projects.
 
-## Two mind shifts for Paulo's new approach
+## Paulo's new approach is based on two mind shifts
 
-Paulo's mind has shifted as he develops and deploys large-scale improvement projects:
+Paulo's mind has shifted from the way he worked in 2019. He now develops and deploys large-scale improvement projects with two foundations:
 
 -   Quality Improvement must integrate with Quality Control
 
@@ -77,11 +77,11 @@ Paulo's mind has shifted as he develops and deploys large-scale improvement proj
 
 ### Quality Improvement must integrate with Quality Control
 
-Paulo now firmly believes that Quality Improvement must be integrated with Quality Control to increase the odds that improvements will stick.
+What's your experience in understanding the connection between Quality Improvement and Quality Control?
+
+Paulo now firmly believes that Quality Improvement must be integrated with Quality Control to increase the odds that improvements will stick. If an organization does not have an effective system of Quality Control, you have to build that system as part of an improvement project.
 
 The relationship between Quality Control and Quality Improvement may not be news to you.
-
-What's your experience in understanding the connection between Quality Improvement and Quality Control?
 
 Different quality experts have stressed QI and QC integration for decades but we didn't understand the implications as deeply as we do now.
 
@@ -93,13 +93,9 @@ In the diagram, Quality Control is the beginning and end of Quality Improvement.
 
 "Standard work is a verb and not a noun....Standard work is meant to be a hypothesis to test the results of everyone doing something in the same way all the time....Standard work, therefore, is not the destination itself but simply a *tool* along the way in our endless quest to find the best, safest, and easiest way to deliver patient care." (*Getting to Standard Work in Health Care*, 2nd edition, p. 27).
 
-Sustaining Quality Improvement requires a foundation in standard work. The foundation of standard work is the work standard: for each step in a care process, what is the job and how should it be done?
+Sustaining Quality Improvement requires a foundation in standard work. The foundation of standard work is the work standard: for each care process, what are the jobs and how should those jobs be done?
 
 Paulo's experience with the Maternal Mortality Project opened the door to better ways to define and teach jobs through clear work standards.
-
-#### Quality Controls builds capacity for Quality Improvement
-
-In carrying out Quality Control during operations, people use the Plan-Do-Study-Act cycle explicitly every day. Daily experience builds skills of supervisors and individuals in solving local problems that usually have easier to grasp causes. When your organization needs a special improvement project, you will have a large cadre of skilled people who can contribute–you're not reliant on staff specialists who often do not have detailed job-specific knowledge and know-how to develop solutions that work well.
 
 ### Problems are good to have
 
@@ -121,27 +117,31 @@ How can you modify your existing management system to make problems more visible
 
 The second phase of Paulo's ICU Improvement Project used several methods to make problems more visible, including a way to contrast the plan for core work with what people actually do, in real-time.
 
-##  Improvement projects since ICU Phase 1
+#### Quality Control builds capacity for Quality Improvement
 
-### Just Starting: improving performance of 11 EDs in Sao Paulo, Brazil
+In carrying out Quality Control during operations, people use the Plan-Do-Study-Act (PDSA) cycle explicitly every day. Daily experience with PDSA builds skills of supervisors and individuals as they solve problems connected with daily work. Daily work problems often have simpler causal relationships, which makes them easier to solve.
 
-Paulo and his colleagues are designing a learning community that aims to improve care in 11 EDs. Leaders in the 11 EDs will clarify several elements of care as they define standard work. The leaders in the EDs will also make it much easier to see and solve problems.
+When your organization needs a special improvement project and your people have practice PDSA problem solving as part of Quality Control, you will have a large cadre of skilled people who can contribute to the special project. Your special improvement project does not rely on staff specialists who often do not have detailed job-specific knowledge and know-how to develop solutions that will work well.
+
+## Improving performance of 11 EDs in Sao Paulo, Brazil: 4th Quarter 2024
+
+Paulo and his colleagues are designing a learning community that aims to improve care in 11 EDs. Leaders in the 11 EDs will clarify several elements of care as they define standard work. The leaders in the EDs will also make it much easier to see and solve operational problems.
 
 ![](images/ED%20project%20slide.png){width="500"}
 
-Here's a summary of the management system being designed for the ED project.
+Here's a summary of the management system being designed for the ED project to solve the problems. This management system has emerged from experience in three large-scale improvement projects starting in 2019.
 
 ![](images/Elements%20of%20the%20Mgt%20System.png){width="500"}
 
 You are likely to be familiar with and may be using a version of one of more of the elements in your EDs.
 
+We borrowed the term "Amplify problems" from Kim and Spear (2023), *Wiring the Winning Organization*. Kim and Spear describe a management system that makes it easy for staff and leaders to find and perceive problems. One pillar of their system is amplification.
+
+"*Amplifcation* is the act of calling out problems loudly and consistently enough so help is triggered to swarm them. Once the problems are swarmed, they are contained so they neither endure locally nor spread systemically. Then, they are investigated to determine their causes and create corrective actions that prevent recurrence. This requires that the signal of a problem is successfully generated, transmitted, received, and then reacted to." (Kim and Spear, p. 233).
+
 ### Lesson from the Maternal Mortality Project 2019-2021: agree on the work, teach the work
 
-The management system proposed for the ED project emerged from two other sets of interventions.
-
-The MMP focused on reducing birth-associated mortality in the ED. The project was the first time Paulo and his colleagues integrated the technique of Job Instruction with a core clinical process.
-
-\[The identification and mapping of the 4R's was good work but not "new"? One of the interventions was to change the work first and then train to the work....this is important sequencing but did you do anything new in defining the 4Rs work??\]
+The Maternal Mortality Project focused on reducing birth-associated mortality in hospitals (mostly ED sites of care). The project was the first project Paulo and his colleagues led that integrated the technique of Job Instruction with a core clinical process.
 
 ![](images/MM-1.png){width="500"}
 
@@ -155,85 +155,109 @@ The MMP focused on reducing birth-associated mortality in the ED. The project wa
 
 ![](images/MatMortResults.png){width="500"}
 
-The MMP project team identified a high leverage process, "4Rs to Rescue." High leverage means that a small amount of change effort appeared likely to cause a large change in maternal mortality.
+The MMP project team identified a high-leverage process, "4Rs to Rescue." High leverage means that a small amount of change effort appeared likely to cause a large change in maternal mortality.
 
 ![](images/Maternal%20Mortality%20Core%20Process.png){width="500"}
 
 To achieve the clear aim (work standard) for care of pregnant women, the project team developed specific bundles of care used to rescue.
 
-To reduce variation in the way staff carried out the bundles, the project team applied a new way, "Job Instruction" to train staff in the key steps within each of the 4R process blocks.
+To reduce variation in the way staff carried out the bundles, the project team applied a new way, "Job Instruction" to train staff in the key steps within each of the 4R process blocks. Here we illustrate the rescue bundle for suspicion of sepsis.
 
 ![](images/MM New and bundle.png){width="500"}
 
 #### Job Instruction
 
-Job Instruction (JI) is one of the core methods in the Training Within Industry (TWI). We'll say a bit more about TWI later in this session if we have time; go to [Teach skills to do the work (JI Method)]) to learn more.
+Job Instruction (JI) is one of the core methods in the Training Within Industry (TWI). We give a bit more information about TWI in the section [Teach skills to do the work (JI Method)]).
 
-JI requires one-to-one teaching.
+JI requires one-to-one teaching. This is a striking difference from methods that lecture or demonstrate to groups.
 
 ![](images/JI-1 revised.png)
 
-The instructor systematically demonstrates the job and offers the and then watches the person being instructed carry out the key steps.
-
-The instructor uses a Job Breakdown Sheet in the 1-1 training.
+The instructor uses a Job Breakdown Sheet to guide the 1-1 training demonstration and explanation. The instructor uses the same teaching approach outlined 80 years ago.
 
 ![](images/JI-2.png){width="500"}
 
-The instructor uses a well-defined teaching sequence that involves showing the important steps, then adding the key points and reasons for the key points. Next, the instructor observes the person do the job and then the person doing the job while repeating back the key points and reasons. When the instructor is satisfied that the person knows the important steps, key points and reasons, the person is ready to go to work. This teaching sequence follows the "How To Instruct" advice on the pocket card from 80 years ago.
+The instructor shows the important steps, then repeats the demonstration stating the key points and reasons for the key points. Next, the instructor observes the person do the job, with corrections as necessary. The person learning the job next demonstrates the important steps while repeating back the key points and reasons. When the instructor is satisfied that the person knows the important steps, key points and reasons, the person is ready to go to work.
 
-**What did Paulo's teams learn from JI application, what are the benefits?**
+**What did Paulo's teams learn from their use of the JI method? What are the benefits?**
 
--   Everyone has clarity about the core jobs. New people can learn the important steps along with key points. The key points inform people about how-to and carry out the work in the same way as current staff, using the know-how (current best approach.)
+-   Everyone has clarity about the core jobs. Common agreement on core jobs provides the basis for future adjustments.
 
--   People know why they are doing specific tasks a certain way. Knowing why helps to cement the lessons and provides the basis for future modification of work standards.
+-   New people can learn the important steps along with key points. The key points give how-to tips so new people carry out the work in the same way as current staff, reducing variation.
 
--   While 1-1 training may seem inefficient, ultimately there is no other way we've seen that delivers the consistency of job performance produced by the JI including the insistence on 1-1 training.
+-   People know why they are doing specific tasks a certain way. Knowing why helps to cement the sequence of steps and key points.
 
--   JI supports a Training Plan–what and by when–for staff skill building. We do not expect every person to master every job skill all at once. Supervisors and managers can organize a sequence for training. The training achievement of team members allows more effective schedules to assure sufficient people with skills are present on each shift across shifts, accounting for vacations and leaves of absence. The training status naturally appears as a chart on the local visual management board.
+-   While 1-1 training may seem inefficient, ultimately there is no other way we've seen that delivers the consistency of job performance produced by JI method.
+
+-   JI supports a Training Plan: who will know what and by when. We do not expect every person to master every job skill all at once. Supervisors and managers can organize a sequence for training. The training achievement of team members allows more effective schedules to assure sufficient people with skills are present on each shift across shifts, accounting for vacations and leaves of absence. The training status naturally appears as a chart on the local visual management board.
 
 Paulo's experience: People resist the systematic way of training at the beginning! When they understand the impact, they will adopt it.
 
-### Lesson from ICU Phase 2 Project, 2023-2024: make problems easy to see (and solve)
+### Lessons from HAI reduction projects, 2021-present: make problems easy to see (and solve)
 
-Paulo and his colleagues continued to apply the Job Instruction methods to the ICU Phase 2 Project, aimed to reduce hospital acquired infections. Again, the project designers working with staff adapted bundles of care for the different conditions first developed in the ICU Phase 1 Project.
+Paulo and his colleagues continued to apply the Job Instruction methods in two more projects that aimed to reduce hospital acquired infections. The project designers adapted bundles of care for HAIs first developed in the ICU Phase 1 Project. One project involved 200 ICUs in Brazil; the other project involved 20 public hospitals in Portugal ICUs and wards.
 
-In the ICU Phase 2 project, they explored a method to link the job skills defined by Job Breakdown Sheets with a regular audit of work. This approach, called the Kamishibai method, is a way to make problems with the core job skills visible to everyone in the unit.
+![](images/ICU 2 and Portugal New Mgt Elements.png){width="500"}
 
-After people are trained, how well are they able to follow the steps, with the proper technique?
+The projects achieved their aims. Here is a summary slide for the Brazil ICU project
 
-Regular audits yield a picture of performance. A display board enables everyone to see the state of compliance with the core work skills in the clinical unit, week by week. Adherence to the standard is rated as pass (Green) or fail (Red). A card corresonding to the audit is then placed on a summary display board in the unit.
+![](images/Summary outcomes ICU Phase 2.png){width="500"}
 
-Furthermore, each clinical unit then can summarize weekly performance to a control chart showing the per cent of audit opportunities that are either Red or Green.
+The HAI projects involved more elements of the management system that will be used in the ED Project.
 
-**Paulo's Reflections on Kamishibai method:**
+-   ICUs and wards adapted shift huddles to include reflection on problems related to the HAI project the previous day and asked for any additional problems. The stand-up huddles were coached not to solve the problems but only to capture them.
 
--   'Kamishibai moves the action/response to deviations from normal bundle practice into daily base instead of monthly based (after creation of run chart at the end of the month)​
+-   **WHAT CAN YOU SAY ABOUT TIPS FOR GEMBA WALKS???** \["Project leaders were coached on rounding/Gemba walks to look for problems–anything that caused stress to staff or delays or gaps in communication."\]
 
--   No variation among hospital to decide if there was compliance or not to the element of the bundle (JBS, process instruction and Kamishibai card)​
+-   The ICUs and wards introduced a way to invite and gather problems from the entire team. Anyone who identified a problem would describe it briefly and deposit into an envelope hanging on the management board. These problems as well as problems identified in huddles were reviewed once a week and assigned for solution by local project leaders.
 
--   It is more time consuming at the beginning but will save time and improve the care​
+-   Each site of care built a daily management display board that contained graphs of key metrics, problem-solving status, and audit records of work. Huddles took place in front of the board to make it easy for people to discuss and identify issues.
 
--   It is very cheap (\< U\$ 10 to create Kamishibai)​
+We'll say more about the focused work observation because we think it is least familiar to you.
 
--   Problems became annoyingly visible (red for not compliant)​
+#### Focused Work Observation:  the Kamishibai method 
 
-Learning curve
+After people are trained in basic job skills using Job Instruction, how well are they able to carry out the jobs according to the standard?
 
-**One innovation** now planned for a first test in multi-country project in Africa, launched this month: use AI tools to reduce manual effort in translating the weekly performance into control chart calculation.
+The Kamishibai method is a way to link the job skills defined by Job Breakdown Sheets with a regular audit of work. Observers must be trained to compare the work with the work standard. If there is a safety issue, the observer must stop their colleague and fix the problem. If there are other deviations from the standard that are not safety issues, the observer notes the problem and debriefs with their colleague at the end of the observation.
 
-**Link standard work and job skills to Kamishibai Method**
+![](images/KM-1.PNG){width="500"}
 
-Paulo summarizes the Major benefits of the Kamishibai method:
+Regular audits yield a picture of performance. A display board enables everyone to see the state of compliance with the core work skills in the clinical unit, week by week. Adherence to the standard is rated as pass (Green) or fail (Red).
 
--   The regular audit of the fundamental skills can be done by anyone with appropriate knowledge. The CEO could take a card and observe. There is typically a schedule to go observe. If no safety issue, and a deviation, then debrief afterwards. If safety issue STOP and correct. Operationalizes Quality Control within Operations!!
+![](images/KM-2.PNG){width="500"}
 
--   regular coaching/intervention to align performance with desired state (normal)
+The person who observed the work places the completed card on a summary display. The summary display has a column for each day of the week and a row for each bundle element. The card is placed in the relevant cell of the display.
 
--   summarizes the performance on the core skills visible to everyone (display board), motivation to reduce the red
+![](images/KM-3.PNG){width="500"}
 
--   much faster signaling than the previous monthly reporting cycle on bundle compliance.
+Furthermore, each clinical unit usually summarizes "green" weekly performance for each bundle in a time series chart.
+
+Here's a view of the improvement in compliance for the VAP prevention bundle. Results for the other infection bundles were similar.
+
+**One innovation** Now planned for a first test in a multi-country project in Africa that started earlier this month: use AI tools to reduce manual effort to translate the weekly performance into a run chart or control chart. A photo of the Kamishibai board will be taken at the end of the week and then run through an application to count the red and green cards each day and convert the counts to a run chart or a control chart that then will be posted on the management board. The project in Africa is also testing ways to use AI bots to process language data to reduce burden on staff.
+
+**What did Paulo's teams learn from their use of the Kamishibai method? What are the benefits?**
+
+The Kamishibai method takes effort to establish. Construction of the board and cards is one easy step that is inexpensive (\< US\$10). The main challenge is getting the clinical unit members comfortable and persistent with daily work observation and the red-green scoring.
+
+Remember that in the ICU Phase 1 project, ICU teams used bundle-compliance checklists that were summarized and reviewed monthly. This was the feedback system that collapsed after the first year.
+
+Kamishibai increases the velocity of the action/response cycle to deviations from the desired bundle practice. A monthly cycle in the ICU Phase 1 project is now a daily cycle. This 30-fold increase in review cycle frequency means that problems in jobs are caught much earlier and have less chance to result in an infection. Every day, at least some staff members explicitly compare job performance with the desired state and catch deviations.
+
+Here are additional benefits the project designers and teams have identified:
+
+-   No variation among hospitals about the definition of compliance to each element of the bundle. The Job Breakdown Sheets, process instruction, and Kamishibai cards are uniform across all the participating hospitals.​
+
+-   Problems with the elements of the bundles became annoyingly visible. The red cards on the wall are out in the open for anyone to see.
+
+-   In many other applications of the Kamishibai method, a supervisor or other formal leader audits the work. In the HAI projects, most of the audits are done by peers, which increases job awareness throughout the team.
 
 **Question for the audience: how could Kamishibai method work in your ED?**
+
+Here's the schematic of a Kamishibai board for the new ED project. Mention core conditions that will follow use of NEWS.
+
+![](images/ED Schematic K board.png)
 
 # Deeper dive on elements of the management system
 
@@ -279,7 +303,7 @@ In Kato's model:
 
 Step ups 1-3 are the core activities of standard work. Step up 4 and Step up 5 merge with the elements of the overall management of operations. See <https://www.iecodesign.com/blog/2021/1/13/work-standard-and-standard-work> for further discussion.
 
-Here's an illustration of work standards from the ICU project, Phase 2
+Here's an illustration of work standards from the ICU project, Phase 2 (VAP = ventilator acquired pneuomonia)
 
 ![](images/Work2.PNG){width="500"}
 
@@ -325,7 +349,13 @@ Refer to Kim and Spear use of the term
 
 ### Gemba Walks
 
+Pay attention to process (flow)--the value stream. How are local leaders managing flow? What issues have the local team escalated to others and what is the degree of responsiveness? Pay attention to the quality control system: how well do huddles run? How effective is the use of the Kamishibai method? How are people solving problems? Are skills in PDSA and structured problem solving deepening?
+
 ### Kamishibai method
+
+![](images/K-board full schematic and photos.png){width="700"}
+
+The image above is from Bravo et al. (2023).
 
 ### Individual problem reporting
 
@@ -350,6 +380,8 @@ Who does it? 
 How are assignments made?  
 
 How long does the weekly review take?   Where is the status of projects shown?   Usual advice is to LIMIT THE NUMBER OF IMPROVEMENT PROJECTS to N (N\<=5).  YOU CAN’T START ANOTHER PROJECT UNTIL ONE PREVIOUS PROJECT IS FINISHED
+
+The Lancaster option
 
 ## Make performance visible
 
@@ -393,17 +425,15 @@ You see that the Kano diagram does not show a role for Quality Planning. For exa
 
 [Example:]{.underline} The rapid pivot in 2020 to COVID protocols in clinical settings is an example of an exogenous change that drove changes to operations. Healthcare organizations with robust QC systems adapted quickly and more safely relative to other organizations. (Baptist Health, Skip Steward, <https://www.lean.org/the-lean-post/articles/building-a-learning-organization-kata-webinar-snippet/>).
 
-#### 
-
 ## Presenters
 
 **Paulo Borem, MD** has practiced as a vascular surgeon. He is a Senior Director of the Institute for Healthcare Improvement (IHI), an Improvement Advisor, and a Patient Safety Officer (PSO) certified by IHI. Dr. Borem has led more than 15 large-scale initiatives in Portugal, Brazil, and Africa to reduce hospital-acquired infections, maternal deaths, unnecessary cesarean sections, and post-operative deaths and improve Joy in Work. He is also responsible for IHI's Improvement Specialist training courses in Portuguese-speaking countries. Dr. Borem is trained in Job Instruction, Job Relations and Job Methods by the TWI Institute. Contact: pborem\@ihi.org
 
-**Kevin Litttle, Ph.D.** (statistics) has worked as an improvement advisor to health care projects since 2001. As a senior Improvement Advisor with the Institute for Healthcare Improvement, he has recently worked on projects X, Y, Z. He is currently an improvement advisor to a project funded by the West Institute aims to reduce hospital admissions through integration of care by ACOs and Geriatric EDs in the United States . Contact: klittle\@iecodesign.com.
+**Kevin Litttle, Ph.D.** (statistics) has worked as an improvement advisor to health care projects since 2001. As a senior Improvement Advisor with the Institute for Healthcare Improvement, he has recently supported IHI's Pursuing Equity projects and learning communities to decarbonize healthcare operations. He currently serves as improvement advisor to a project funded by the West Institute that aims to reduce hospital admissions through integration of care by ACOs and Geriatric EDs in the United States . Contact: klittle\@iecodesign.com.
 
 ## Sources of influence
 
-Our thinking and consultation practice has several major influences. You may be familiar with one or more of the following. We think the least familiar to most people is the Training Within Industry (TWI) approach to front-line operations. We'll provide a brief introduction to TWI in our session.
+Our thinking and consultation practice has several major influences. You may be familiar with one or more of the following. We think the least familiar to most people is the Training Within Industry (TWI) approach to front-line operations.
 
 -   Deming through API and IHI (Model for Improvement, System of Profound Knowledge);
 
@@ -419,11 +449,16 @@ Donald Dinero (2005), *Training Within Industry: the foundation of Lean*, Produc
 
 Patrick Graupp and Martha Purrier (2022), *Getting to Standard Work in Health Care: Using TWI to Create a Foundation for Quality Care*, Routledge, Boca Raton, FL.
 
+Jim Lancaster (2017), *The Work of Management: A Daily Path to Sustainable Improvement*, Lean Enterprise Institute, Cambridge, MA.
+
 report on TWI 1940-1945
 
 Gene Kim and Steven J. Spear (2023), *Wiring the Winning Organization*, IT Revolution, Portland, OR.
 
 [Papers published on ICU Phase 1, Maternal Mortality, Portugal ICU and wards, ICU Phase 2]{.underline}
+
+M.A.S. Bravo et al. (2023), Adapting lean management to prevent healthcare-associated infections: a low-cost
+strategy involving Kamishibai cards to sustain bundles’ compliance, *International Journal for Quality in Health Care*, 35(4), 1-6.
 
 Direct application of lean manufacturing experience may not yield insights in every clinical application (Lillrank)
 
