@@ -65,7 +65,7 @@ Prompted by the Ministry of Health's criticism, Paulo and his colleagues next de
 
 He extended the design used in the Maternal Mortality project in new projects that aimed to reduce infections in ICUs in Brazil and in ICUs and wards in Portugal.
 
-The three new projects allowed him to test new ways to improve operations and sustain those improvements. We'll give you a brief look at each of these projects.
+The three new projects allowed him to test new ways to improve operations and sustain those improvements. We'll refer to these projects as we tell you about the management system that Paulo now proposes for his clients.
 
 ## Paulo's new approach is based on two mind shifts
 
@@ -117,11 +117,11 @@ How can you modify your existing management system to make problems more visible
 
 The second phase of Paulo's ICU Improvement Project used several methods to make problems more visible, including a way to contrast the plan for core work with what people actually do, in real-time.
 
-#### Quality Control builds capacity for Quality Improvement
+#### Quality Control builds your capacity for Quality Improvement
 
-In carrying out Quality Control during operations, people use the Plan-Do-Study-Act (PDSA) cycle explicitly every day. Daily experience with PDSA builds skills of supervisors and individuals as they solve problems connected with daily work. Daily work problems often have simpler causal relationships, which makes them easier to solve.
+In carrying out Quality Control during operations, people use the Plan-Do-Study-Act (PDSA) cycle explicitly every day. Daily experience with PDSA builds skills of supervisors and individuals as they solve problems connected with daily work. Daily work problems often have simpler causal relationships than typical organization or department improvement projects, which makes the daily problems easier to solve.
 
-When your organization needs a special improvement project and your people have practice PDSA problem solving as part of Quality Control, you will have a large cadre of skilled people who can contribute to the special project. Your special improvement project does not rely on staff specialists who often do not have detailed job-specific knowledge and know-how to develop solutions that will work well.
+When your organization needs a special improvement project and your people use PDSA problem-solving as part of Quality Control, you will have a large cadre of skilled people who can contribute to the special project. Your special improvement project will not rely solely on staff specialists who often do not have detailed job-specific knowledge and know-how to develop solutions that will work well.
 
 ## Improving performance of 11 EDs in Sao Paulo, Brazil: 4th Quarter 2024
 
@@ -129,7 +129,9 @@ Paulo and his colleagues are designing a learning community that aims to improve
 
 ![](images/ED%20project%20slide.png){width="500"}
 
-Here's a summary of the management system being designed for the ED project to solve the problems. This management system has emerged from experience in three large-scale improvement projects starting in 2019.
+![](images/ED Project aims.png){width="500"}
+
+Here's a summary of the management system being designed for the ED project to solve the problems and achieve the aims. This management system has emerged from experience in three large-scale improvement projects starting in 2019.
 
 ![](images/Elements%20of%20the%20Mgt%20System.png){width="500"}
 
@@ -163,15 +165,15 @@ To achieve the clear aim (work standard) for care of pregnant women, the project
 
 To reduce variation in the way staff carried out the bundles, the project team applied a new way, "Job Instruction" to train staff in the key steps within each of the 4R process blocks. Here we illustrate the rescue bundle for suspicion of sepsis.
 
-![](images/MM New and bundle.png){width="500"}
+![](images/MM%20New%20and%20bundle.png){width="500"}
 
 #### Job Instruction
 
-Job Instruction (JI) is one of the core methods in the Training Within Industry (TWI). We give a bit more information about TWI in the section [Teach skills to do the work (JI Method)]).
+Job Instruction (JI) is one of the core methods in the Training Within Industry (TWI). We give a bit more information about TWI in the section [Teach skills to do the work (JI Method)](#teach-skills-to-do-the-work-ji-method)).
 
 JI requires one-to-one teaching. This is a striking difference from methods that lecture or demonstrate to groups.
 
-![](images/JI-1 revised.png)
+![](images/JI-1%20revised.png)
 
 The instructor uses a Job Breakdown Sheet to guide the 1-1 training demonstration and explanation. The instructor uses the same teaching approach outlined 80 years ago.
 
@@ -197,25 +199,21 @@ Paulo's experience: People resist the systematic way of training at the beginnin
 
 Paulo and his colleagues continued to apply the Job Instruction methods in two more projects that aimed to reduce hospital acquired infections. The project designers adapted bundles of care for HAIs first developed in the ICU Phase 1 Project. One project involved 200 ICUs in Brazil; the other project involved 20 public hospitals in Portugal ICUs and wards.
 
-![](images/ICU 2 and Portugal New Mgt Elements.png){width="500"}
+![](images/ICU%202%20and%20Portugal%20New%20Mgt%20Elements.png){width="500"}
 
-The projects achieved their aims. Here is a summary slide for the Brazil ICU project
+The projects achieved their aims. Here is a summary slide for the Brazil ICU project:![](images/ICU Phase 2 outcome graphs en.png){width="500"}
 
-![](images/Summary outcomes ICU Phase 2.png){width="500"}
+The HAI projects involved several elements of the management system that will be used in the ED Project.
 
-The HAI projects involved more elements of the management system that will be used in the ED Project.
+-   Huddles: ICUs and wards adapted shift huddles to include reflection on problems related to the HAI project the previous day and asked for any additional problems. The stand-up huddles were coached not to solve the problems but only to capture the
 
--   ICUs and wards adapted shift huddles to include reflection on problems related to the HAI project the previous day and asked for any additional problems. The stand-up huddles were coached not to solve the problems but only to capture them.
+-   Problem Identification: The ICUs and wards introduced a way to invite and gather problems from the entire team. Anyone who identified a problem would describe it briefly and deposit into an envelope hanging on the management board. These problems as well as problems identified in huddles were reviewed once a week and assigned for solution by local project leaders.
 
--   **WHAT CAN YOU SAY ABOUT TIPS FOR GEMBA WALKS???** \["Project leaders were coached on rounding/Gemba walks to look for problems–anything that caused stress to staff or delays or gaps in communication."\]
-
--   The ICUs and wards introduced a way to invite and gather problems from the entire team. Anyone who identified a problem would describe it briefly and deposit into an envelope hanging on the management board. These problems as well as problems identified in huddles were reviewed once a week and assigned for solution by local project leaders.
-
--   Each site of care built a daily management display board that contained graphs of key metrics, problem-solving status, and audit records of work. Huddles took place in front of the board to make it easy for people to discuss and identify issues.
+-   Management Boards: Each site of care built a daily management display board that contained graphs of key metrics, problem-solving status, and audit records of work. Huddles took place in front of the board to make it easy for people to discuss and identify issues.
 
 We'll say more about the focused work observation because we think it is least familiar to you.
 
-#### Focused Work Observation:  the Kamishibai method 
+#### Focused Work Observation: the Kamishibai method
 
 After people are trained in basic job skills using Job Instruction, how well are they able to carry out the jobs according to the standard?
 
@@ -223,7 +221,7 @@ The Kamishibai method is a way to link the job skills defined by Job Breakdown S
 
 ![](images/KM-1.PNG){width="500"}
 
-Regular audits yield a picture of performance. A display board enables everyone to see the state of compliance with the core work skills in the clinical unit, week by week. Adherence to the standard is rated as pass (Green) or fail (Red).
+The team takes the results from regular audits to build a picture of performance. A display board enables everyone to see the state of compliance with the core work skills in the clinical unit, week by week. Adherence to the standard is rated as pass (Green) or fail (Red).
 
 ![](images/KM-2.PNG){width="500"}
 
@@ -231,11 +229,13 @@ The person who observed the work places the completed card on a summary display.
 
 ![](images/KM-3.PNG){width="500"}
 
-Furthermore, each clinical unit usually summarizes "green" weekly performance for each bundle in a time series chart.
+Each clinical unit usually summarizes weekly performance in a time series chart, one graph per bundle so that the history of previous weeks is not lost.
 
 Here's a view of the improvement in compliance for the VAP prevention bundle. Results for the other infection bundles were similar.
 
-**One innovation** Now planned for a first test in a multi-country project in Africa that started earlier this month: use AI tools to reduce manual effort to translate the weekly performance into a run chart or control chart. A photo of the Kamishibai board will be taken at the end of the week and then run through an application to count the red and green cards each day and convert the counts to a run chart or a control chart that then will be posted on the management board. The project in Africa is also testing ways to use AI bots to process language data to reduce burden on staff.
+![](images/ICU Phase 2 VAP element reliability.png){width="500"}
+
+**Automation innovation** Now planned for a first test in a multi-country project in Africa that started earlier this month: use AI tools to reduce manual effort to translate the weekly performance into a run chart or control chart. A photo of the Kamishibai board will be taken at the end of the week and then run through an application to count the red and green cards each day, The app then converts the counts to a run chart or a control chart. The team will post the chart on the management board. The project in Africa is also testing ways to use AI tools to process language data into summaries.
 
 **What did Paulo's teams learn from their use of the Kamishibai method? What are the benefits?**
 
@@ -255,13 +255,15 @@ Here are additional benefits the project designers and teams have identified:
 
 **Question for the audience: how could Kamishibai method work in your ED?**
 
-Here's the schematic of a Kamishibai board for the new ED project. Mention core conditions that will follow use of NEWS.
+Here's the schematic of a Kamishibai board for the new ED project.
 
-![](images/ED Schematic K board.png)
+![](images/ED%20Schematic%20K%20board.png){width="500"}
 
-# Deeper dive on elements of the management system
+The ED project in Brazil will focus on patients who present with seven conditions: respiratory distress, stroke, cardiac infarcts, sepsis, trauma, abdominal pain and heart congestion failure.
 
-KL idea: highlight how each element either contributes to the QC system OR amplifies problems
+The project team plans to develop Job Breakdown Sheets to cover the steps of the generic rescue process, including the specific rescue bundles for each condition.
+
+# Additional notes on elements of the management system
 
 ## Agree on the work
 
@@ -321,7 +323,7 @@ Job Instruction is one of part of the Training Within Industry curriculum.
 
 TWI was invented and developed through dozens of test cycles 1940-1945 by the United States War Manpower Commission. TWI's development is a great example of iterative refinement, PDSA in action.
 
-The Commission created and refined three 10-hour courses aimed at supervisors:
+The Commission created and refined three 10-hour courses to help supervisors work with their people to increase production and safety:
 
 1.  Job Instruction: How to do a job correctly and safely (JI)
 2.  Job Methods: Basic industrial engineering (JM)
@@ -341,6 +343,14 @@ Here are images of the World War II era pocket cards for JM and JR, to complemen
 
 ![](images/TWI-2.png)
 
+### Adapting Job Instruction in the Maternal Mortality and ICU projects
+
+Job Instruction originally took place in factories. A supervisor could build the Job Breakdown Sheet and teach a job skill on the production floor or using a special workstation with the relevant tools and materials. In jobs that involve direct patient care, Paulo's teams needed to adapt the original approach. For example, in the 10 hour "learn how to teach the JI way" class , 14 supervisors used mannequins and simulated care settings to learn how to create Job Breakdown Sheets and teach using the Job Instruction outline.
+
+The project team then held weekly sessions with these supervisors to co-design all the Job Breakdown Sheets for each element of the bundles. These Job Breakdown Sheets were again created using simulation care settings and then refined based on direct clinical application to patients.
+
+![](images/JI%20simulation%20training.png)
+
 ## Amplify problems
 
 Refer to Kim and Spear use of the term
@@ -353,9 +363,11 @@ Pay attention to process (flow)--the value stream. How are local leaders managin
 
 ### Kamishibai method
 
-![](images/K-board full schematic and photos.png){width="700"}
+![](images/Kamishibai definition.png){width="500"}
 
-The image above is from Bravo et al. (2023).
+![](images/K-board%20full%20schematic%20and%20photos.png){width="700"}
+
+The image above is from Bravo et al. (2023), which describes how the ICU Phase 2 project team developed and deployed Kamishibai boards in almost 200 hospitals.
 
 ### Individual problem reporting
 
@@ -393,17 +405,17 @@ What belongs on the board? core measures during collab.
 
 Why not just keep everything in the computer?
 
-"The system needs to speak to you." The computer is not accessible to everyone. YOu have to log in, find the right place...people give up! When it is on the wall, you can't escape everyone sees the same thing.
+"The system needs to speak to you." The computer is not accessible to everyone. You have to log in, find the right place...people give up! When the display is on the wall, you can't escape everyone sees the same thing.
 
-Thhe benefits outweigh \~10 minute a day to keep up the board
+In Paulo's experience, the benefits outweigh \~10 minute a day to keep the board up-to-date.
 
-During the collab, the RN leader has the job to keep the board updated. Outside the collab, the unit leader has the job.
+During the collaborative, the collaborative leader has the job to keep the board updated. After the formal end of the collaborative, the unit leader has the job.
 
 # Appendix
 
 ## Tips for improving a management system
 
-1.  Take the usual advice in change management: Test on a small scale. E.g. take one bundle related to one condition in the ED project. Develop the Job Breakdown Sheets, determine how Kamishibai method could work. "Testing on a small scale" builds confidence and know how and contains risks of failure. Table 7.1?
+1.  Take the usual advice in change management: Test on a small scale. E.g. take one bundle related to one condition in the ED project. Develop the Job Breakdown Sheets, determine how Kamishibai method could work with the initial bundle. Don't ask staff to develop Job Breakdown Sheets and begin instructing for all conditions and all bundle elements. Testing on a small scale builds confidence and know how for your people and reduces risks of failure. Table 7.1?
 
 Link to "Model Cell" language. Kim and Spear theory.
 
@@ -457,8 +469,7 @@ Gene Kim and Steven J. Spear (2023), *Wiring the Winning Organization*, IT Revol
 
 [Papers published on ICU Phase 1, Maternal Mortality, Portugal ICU and wards, ICU Phase 2]{.underline}
 
-M.A.S. Bravo et al. (2023), Adapting lean management to prevent healthcare-associated infections: a low-cost
-strategy involving Kamishibai cards to sustain bundles’ compliance, *International Journal for Quality in Health Care*, 35(4), 1-6.
+M.A.S. Bravo et al. (2023), Adapting lean management to prevent healthcare-associated infections: a low-cost strategy involving Kamishibai cards to sustain bundles’ compliance, *International Journal for Quality in Health Care*, 35(4), 1-6.
 
 Direct application of lean manufacturing experience may not yield insights in every clinical application (Lillrank)
 
