@@ -261,7 +261,9 @@ As indicated by the slide, the project designers and teams found the method suit
 
 Here's the schematic of a Kamishibai board for the new ED project.
 
-![](images/MASTER DECK/Slide29.PNG){width="500"}The ED project in Brazil will focus on patients who present with seven conditions: respiratory distress, stroke, cardiac infarcts, sepsis, trauma, abdominal pain and heart congestion failure.
+![](images/MASTER DECK/Slide29.PNG){width="500"}
+
+The ED project in Brazil will focus on patients who present with seven conditions: respiratory distress, stroke, cardiac infarcts, sepsis, trauma, abdominal pain and heart congestion failure.
 
 The project team plans to develop Job Breakdown Sheets to cover the steps of the generic rescue process, including the specific rescue bundles for each condition.
 
@@ -271,11 +273,9 @@ What challenges and countermeasures do you see in application of the Kamishibai 
 
 ## Agree on the work
 
-Agreement on the details of specific jobs that produce products and services is the foundation of quality control.
-
 How do you characterize the desired outcomes embodied by your products or services?
 
-The definition of quality gets translated into sets of instructions your organization will use to produce the outcomes:
+The definition of product or service quality gets translated into sets of instructions your organization will use to produce the outcomes:
 
 -   the characteristics of the product or service you intend to produce;
 
@@ -283,7 +283,7 @@ The definition of quality gets translated into sets of instructions your organiz
 
 -   the step by step operations by people to make everything happen.
 
-The instructions are referred to as work standards, which are the foundation of standard work defined above.
+The instructions are referred to as work standards, which are the foundation of standard work as defined by Graupp and Purrier.
 
 The Quality Control cycle during operations requires that we set up operations in two ways:
 
@@ -309,7 +309,7 @@ In Kato's model:
 
 Step ups 1-3 are the core activities of standard work. Step up 4 and Step up 5 merge with the elements of the overall management of operations. See <https://www.iecodesign.com/blog/2021/1/13/work-standard-and-standard-work> for further discussion.
 
-Here's an illustration of work standards from the ICU project, Phase 2 (VAP = ventilator acquired pneuomonia)
+Here's an illustration of work standards from the ICU project, Phase 2 (VAP = ventilator acquired pneumonia)
 
 ![](images/Work2.PNG){width="500"}
 
@@ -349,7 +349,7 @@ Here are images of the World War II era pocket cards for JM and JR, to complemen
 
 ### Adapting Job Instruction in the Maternal Mortality and ICU projects
 
-The War Manpower Commission developed Job Instruction for war-time factories. A supervisor could build the Job Breakdown Sheet and teach a job skill on the production floor or using a special workstation with producton tools and materials. In jobs that involve direct patient care, Paulo's teams adapted the original approach. For example, in the 10-hour "learn how to teach the JI way" class , 14 supervisors used mannequins and simulated care settings to learn how to create Job Breakdown Sheets and teach using the Job Instruction outline.
+The War Manpower Commission developed Job Instruction for war-time factories. A supervisor could build the Job Breakdown Sheet and teach a job skill on the production floor or using a special workstation with production tools and materials. In jobs that involve direct patient care, Paulo's teams adapted how they built and used Job Breakdown sheets . For example, in the 10-hour "learn how to teach the JI way" class , 14 supervisors used mannequins and simulated care settings to learn how to create Job Breakdown Sheets and teach using the Job Instruction outline.
 
 The project team then held weekly sessions with these supervisors to co-design all the Job Breakdown Sheets for each element of the bundles. These Job Breakdown Sheets were again created using simulation care settings and then refined based on direct clinical application to patients.
 
@@ -359,11 +359,9 @@ The project team then held weekly sessions with these supervisors to co-design a
 
 ### Huddles
 
-### Gemba Walks
+### Work Observation: Kamishibai method
 
-Pay attention to process (flow)--the value stream. How are local leaders managing flow? What issues have the local team escalated to others and what is the degree of responsiveness? Pay attention to the quality control system: how well do huddles run? How effective is the use of the Kamishibai method? How are people solving problems? Are skills in PDSA and structured problem solving deepening?
-
-### Kamishibai method
+Kamishibai is a Japanese term:
 
 ![](images/Kamishibai%20definition.png){width="500"}
 
