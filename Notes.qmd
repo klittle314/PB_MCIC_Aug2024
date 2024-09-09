@@ -51,7 +51,7 @@ How can we prevent these failure modes? We'll present what Paulo has learned ove
 
 Paulo helped to design and lead a large-scale project to reduce hospital-acquired infections in 118 public hospital ICU units in Brazil. Over two years, the project achieved more than a 50% reduction in HAI averaged across the ICU units. The main intervention deployed specific infection prevention "bundles."
 
-![](images/MASTER%20DECK/Slide5.PNG){style="border: 1px solid #AAA" width="500"}
+![Presentation Slide 5](images/MASTER%20DECK/Slide5.PNG){style="border: 1px solid #AAA" width="500"}
 
 However, this project had a fundamental weakness. The method to achieve the lower HAI rates depended on a burdensome feedback cycle. After 12 months, almost all ICU units had stopped collecting data on adherence to the use of the care bundles that formed the foundation of the project.
 
@@ -69,7 +69,7 @@ The three new projects allowed him to test new ways to improve operations and su
 
 ## Two Mind Shifts
 
-![](images/MASTER%20DECK/Slide6.PNG){style="border: 1px solid #AAA" width="500"}
+![Presentation Slide 6](images/MASTER%20DECK/Slide6.PNG){style="border: 1px solid #AAA" width="500"}
 
 Paulo has shifted from the way he worked in 2019. He now develops and deploys large-scale improvement projects with two design principles:
 
@@ -89,7 +89,7 @@ Different quality experts have stressed QI and QC integration for decades but we
 
 For example, here's a diagram based on a sketch in 1991 by Dr. Noriaki Kano, an expert in Japanese Total Quality Control (the diagram appears in the [IHI White Paper, "Sustaining Improvement."](https://www.ihi.org/resources/white-papers/sustaining-improvement#downloads)).
 
-![](images/imageKano.png){style="border: 1px solid #AAA" width="500"}
+![Presentation Slide 7](images/imageKano.png){style="border: 1px solid #AAA" width="500"}
 
 In the diagram, Quality Control is the beginning and end of Quality Improvement. Quality Control itself is a cycle that starts with Standard Work.
 
@@ -129,13 +129,13 @@ When your organization needs a special improvement project and your people use P
 
 Paulo and his colleagues are designing a learning community that aims to improve care in 11 EDs. Leaders in the 11 EDs will clarify several elements of care as they define standard work. The leaders in the EDs will also make it much easier to see and solve operational problems.
 
-![](images/MASTER%20DECK/Slide8.PNG){style="border: 1px solid #AAA" width="500"}
+![Presentation Slide 8](images/MASTER%20DECK/Slide8.PNG){style="border: 1px solid #AAA" width="500"}
 
-![](images/ED%20Project%20aims.png){style="border: 1px solid #AAA" width="500"}
+![Presentation Slide 9](images/ED%20Project%20aims.png){style="border: 1px solid #AAA" width="500"}
 
 Here's a summary of the management system being designed for the ED project to solve the problems and achieve the aims. This management system has emerged from experience in three large-scale improvement projects starting in 2019.
 
-![](images/MASTER%20DECK/Slide10.PNG){style="border: 1px solid #AAA" width="500"}
+![Presentation Slide 10](images/MASTER%20DECK/Slide10.PNG){style="border: 1px solid #AAA" width="500"}
 
 You are likely to be familiar with and may be using one or more of the management practices in your EDs right now.
 
@@ -145,29 +145,31 @@ We borrowed the term "Amplify problems" from Kim and Spear (2023), *Wiring the W
 
 ### Lessons from the Maternal Mortality Project 2019-2021, changing care in the ED
 
-![](images/MASTER%20DECK/Slide12.PNG){style="border: 1px solid #AAA" width="500"}
+![Presentation Slide 12](images/MASTER%20DECK/Slide12.PNG){style="border: 1px solid #AAA" width="500"}
 
 The Maternal Mortality Project focused on reducing birth-associated mortality in hospitals (mostly ED sites of care). The project was the first project Paulo and his colleagues led that integrated the technique of Job Instruction with a core clinical process.
 
-![](images/MASTER%20DECK/Slide13.PNG){style="border: 1px solid #AAA" width="500"}
+![Presentation Slide 13](images/MASTER%20DECK/Slide13.PNG){style="border: 1px solid #AAA" width="500"}
 
-![](images/MM-2.png){style="border: 1px solid #AAA" width="500"}
+![Presentation Slide 14](images/MM-2.png){style="border: 1px solid #AAA" width="500"}
 
-![](images/MM-3.png){style="border: 1px solid #AAA" width="500"}
+![Supplemental Slide Maternal Mortality Project](images/MM-3.png){style="border: 1px solid #AAA" width="500"}
+
+\newpage
 
 #### Quick look at results of the project through 2021
 
-![](images/MASTER%20DECK/Slide15.PNG){style="border: 1px solid #AAA" width="500"}
+![Presentation Slide 15](images/MASTER%20DECK/Slide15.PNG){style="border: 1px solid #AAA" width="500"}
 
 The MMP project team identified a high-leverage process, "4Rs to Rescue." High leverage means that a small amount of change effort appeared likely to cause a large change in maternal mortality.
 
-![](images/MASTER%20DECK/Slide16.PNG){style="border: 1px solid #AAA" width="500"}
+![Presentation Slide 16](images/MASTER%20DECK/Slide16.PNG){style="border: 1px solid #AAA" width="500"}
 
 To achieve the clear aim (work standard) for care of pregnant women, the project team developed specific bundles of care used to rescue.
 
 To reduce variation in the way staff carried out the bundles, the project team applied a new way, "Job Instruction" to train staff in the key steps within each of the 4R process blocks. Here's the rescue bundle for suspicion of sepsis.
 
-![](images/MASTER%20DECK/Slide17.PNG){style="border: 1px solid #AAA" width="500"}
+![Presentation Slide 17](images/MASTER%20DECK/Slide17.PNG){style="border: 1px solid #AAA" width="500"}
 
 #### Job Instruction
 
@@ -175,17 +177,17 @@ Job Instruction (JI) is one of the core methods in the Training Within Industry 
 
 JI requires one-to-one teaching. This is a striking difference from methods that lecture or demonstrate to groups.
 
-![](images/MASTER%20DECK/Slide18.PNG){style="border: 1px solid #AAA" width="500"}
+![Presentation Slide 18](images/MASTER%20DECK/Slide18.PNG){style="border: 1px solid #AAA" width="500"}
 
 The instructor uses a Job Breakdown Sheet to guide the 1-1 training demonstration and explanation. The instructor uses the same teaching approach outlined 80 years ago.
 
-![](images/MASTER%20DECK/Slide19.PNG){style="border: 1px solid #AAA" width="500"}
+![Presentation Slide 19](images/MASTER%20DECK/Slide19.PNG){style="border: 1px solid #AAA" width="500"}
 
 The instructor shows the important steps, then repeats the demonstration stating the key points and reasons for the key points. Next, the instructor observes the person do the job, with corrections as necessary. The person learning the job next demonstrates the important steps while repeating back the key points and reasons. When the instructor is satisfied that the person knows the important steps, key points and reasons, the person is ready to go to work.
 
 **What did Paulo's teams learn from their use of the JI method? What are the benefits?**
 
-![](images/MASTER%20DECK/Slide20.PNG){style="border: 1px solid #AAA" width="500"}
+![Presentation Slide 20](images/MASTER%20DECK/Slide20.PNG){style="border: 1px solid #AAA" width="500"}
 
 Everyone has clarity about the core jobs. Common agreement on core jobs provides the basis for future adjustments and upgrades to work.
 
@@ -201,13 +203,13 @@ Paulo's experience: People resist the systematic way of training at the beginnin
 
 Paulo and his colleagues continued to apply the Job Instruction methods in two more projects that aimed to reduce hospital acquired infections. The project designers adapted bundles of care for HAIs first developed in the ICU Phase 1 Project. One project involved 200 ICUs in Brazil; the other project involved 20 public hospitals in Portugal ICUs and wards.
 
-![](images/MASTER%20DECK/Slide21.PNG){style="border: 1px solid #AAA" width="500"}
+![Presentation Slide 21](images/MASTER%20DECK/Slide21.PNG){style="border: 1px solid #AAA" width="500"}
 
-The projects achieved their aims. Here is a summary slide for the Brazil ICU project:
+The projects achieved their aims. Here is a summary slide for the Brazil HAI 2021-2023 project:
 
-![](images/MASTER%20DECK/Slide22.PNG){style="border: 1px solid #AAA" width="500"}
+![Presentation Slide 22](images/MASTER%20DECK/Slide22.PNG){style="border: 1px solid #AAA" width="500"}
 
-![](images/MASTER%20DECK/Slide23.PNG){style="border: 1px solid #AAA" width="500"}
+![Presentation Slide 23](images/MASTER%20DECK/Slide23.PNG){style="border: 1px solid #AAA" width="500"}
 
 The HAI projects involved several elements of the management system that will be used in the ED Project.
 
@@ -221,7 +223,7 @@ We'll say more about work observations because we think is the most novel aspect
 
 #### Work Observations: the Kamishibai method
 
-![](images/MASTER%20DECK/Slide24.PNG){style="border: 1px solid #AAA" width="500"}
+![Presentation Slide 24](images/MASTER%20DECK/Slide24.PNG){style="border: 1px solid #AAA" width="500"}
 
 After people are trained in basic job skills using Job Instruction, how well are they able to carry out the jobs according to the standard?
 
@@ -229,21 +231,25 @@ The Kamishibai method is a way to link the job skills defined by Job Breakdown S
 
 The team takes the results from regular audits to build a picture of performance. A display board enables everyone to see the state of compliance with the core work skills in the clinical unit, week by week. Adherence to the standard is rated as pass (Green) or fail (Red).
 
-![](images/MASTER%20DECK/Slide25.PNG){style="border: 1px solid #AAA" width="500"}
+![Presentation Slide 25](images/MASTER%20DECK/Slide25.PNG){style="border: 1px solid #AAA" width="500"}
 
 The person who observed the work places the completed card on a summary display. The summary display has a column for each day of the week and a row for each bundle element. The card is placed in the relevant cell of the display.
 
-![](images/MASTER%20DECK/Slide26.PNG){style="border: 1px solid #AAA" width="500"}
+![Presentation Slide 26](images/MASTER%20DECK/Slide26.PNG){style="border: 1px solid #AAA" width="500"}
 
 Each clinical unit usually summarizes weekly performance in a time series chart, one graph per bundle so that the history of previous weeks is not lost.
 
 Here's a view of the improvement in compliance for the VAP prevention bundle (HAI project in Brazil). Results for the other infection bundles were similar.
 
-![](images/ICU%20Phase%202%20VAP%20element%20reliability.png){style="border: 1px solid #AAA" width="500"}
+![Supplemental Slide: HAI Project Brazil, bundle reliability](images/ICU%20Phase%202%20VAP%20element%20reliability.png){style="border: 1px solid #AAA" width="500"}
 
-**Automation innovation** An innovation is now planned for a first test in a multi-country project in Africa that started earlier this month: use AI tools to reduce manual effort to translate weekly Kamishibai records into a run chart or control chart. A photo of the Kamishibai board will be taken at the end of each week and then run through an application to count the red and green cards in the photo, The app then converts the counts to a control chart. The team will post the chart on the management board. The project in Africa is also testing ways to use AI tools to process language data into summaries. \newpage **What did Paulo's teams learn from their use of the Kamishibai method? What are the benefits?**
+**Automation innovation** An innovation is now planned for a first test in a multi-country project in Africa that started earlier this month: use AI tools to reduce manual effort to translate weekly Kamishibai records into a run chart or control chart. A photo of the Kamishibai board will be taken at the end of each week and then run through an application to count the red and green cards in the photo, The app then converts the counts to a control chart. The team will post the chart on the management board. The project in Africa is also testing ways to use AI tools to process language data into summaries.
 
-![](images/MASTER%20DECK/Slide27.PNG){style="border: 1px solid #AAA" width="500"}
+\newpage
+
+**What did Paulo's teams learn from their use of the Kamishibai method? What are the benefits?**
+
+![Presentation Slide 27](images/MASTER%20DECK/Slide27.PNG){style="border: 1px solid #AAA" width="500"}
 
 The Kamishibai method takes effort to establish. The main challenge is getting the clinical unit members comfortable and persistent in daily work observation and the red-green scoring.
 
@@ -253,17 +259,23 @@ Kamishibai increases the velocity of the action/response cycle to deviations fro
 
 The Kamishibai board shows everyone the state of job performance on key elements of care. Problems with the elements of the bundles became annoyingly visible to the unit supervisor. The red cards on the wall are out in the open for anyone to see. In Paulo's experience, local leaders work hard to reduce red cards.
 
-As indicated by the slide, the project designers and teams found the method suited their collaborative projects. They found very little variation among hospitals about the definition of compliance to each element of the bundle. Low variation makes it simpler to aggregate numbers across settings to assess overall impact. Also, the cost of construction of the display board and cards was modest. \newpage **Question for the audience: how can the Kamishibai method work an ED environment?**
+As indicated by the slide, the project designers and teams found the method suited their collaborative projects. They found very little variation among hospitals about the definition of compliance to each element of the bundle. Low variation makes it simpler to aggregate numbers across settings to assess overall impact. Also, the cost of construction of the display board and cards was modest.
+
+\newpage
+
+**Question for the audience: how can the Kamishibai method work an ED environment?**
 
 Here's the schematic of a Kamishibai board for the new ED project.
 
-![](images/MASTER%20DECK/Slide29.PNG){style="border: 1px solid #AAA" width="500"}
+![Presentation Slide 29](images/MASTER%20DECK/Slide29.PNG){style="border: 1px solid #AAA" width="500"}
 
 The ED project in Brazil will focus on patients who present with seven conditions: respiratory distress, stroke, cardiac infarcts, sepsis, trauma, abdominal pain and heart congestion failure.
 
 The project team plans to develop Job Breakdown Sheets to cover the steps of the generic rescue process, including the specific rescue bundles for each condition.
 
-What challenges and countermeasures do you see in application of the Kamishibai method in the ED environment? \newpage
+What challenges and countermeasures do you see in application of the Kamishibai method in the ED environment?
+
+\newpage
 
 # Additional notes on elements of the management system
 
@@ -289,7 +301,7 @@ The Quality Control cycle during operations requires that we set up operations i
 
 Isao Kato, a key associate of Taiichi Ohno at Toyota starting in the 1950's, summarized the essence of Quality Control in his "Step-up" Model.
 
-![](images/Step-ups-1.png)
+![Supplemental Slide: Kato's Step Up Model](images/Step-ups-1.png)
 
 In Kato's model:
 
@@ -305,23 +317,23 @@ In Kato's model:
 
 Step ups 1-3 are the core activities of standard work. Step up 4 and Step up 5 merge with the elements of the overall management of operations. See <https://www.iecodesign.com/blog/2021/1/13/work-standard-and-standard-work> for further discussion.
 
-Here's an illustration of work standards from the ICU project, Phase 2 (VAP = ventilator acquired pneumonia)
+Here's an illustration of the three types of work standards in Kato's Step up 1. We use information from the HAI reduction project in Brazil 2021-2023; VAP = ventilator acquired pneumonia.
 
-![](images/Work2.PNG){style="border: 1px solid #AAA" width="500"}
+![Supplemental Slide: VAP Prevention Process](images/Work2.PNG){style="border: 1px solid #AAA" width="500"}
 
-![](images/Work3.PNG){style="border: 1px solid #AAA" width="500"}
+![Supplemental Slide: Work Standard Example Service Quality](images/Work3.PNG){style="border: 1px solid #AAA" width="500"}
 
-![](images/Work4.PNG){style="border: 1px solid #AAA" width="500"}
+![Supplemental Slide: Work Standard Example Environment and Equipment](images/Work4.PNG){style="border: 1px solid #AAA" width="500"}
 
-![](images/Work5.PNG){style="border: 1px solid #AAA" width="500"}
+![Supplemental Slide: Work Standard for People](images/Work5.PNG){style="border: 1px solid #AAA" width="500"}
 
 \newpage
 
-## Teach skills to do the work (JI Method) {#teach-skills-to-do-the-work-ji-method}
+## Teach skills to do the work {#teach-skills-to-do-the-work}
 
-Job Instruction is one of part of the Training Within Industry curriculum.
+Job Instruction is one of part of the Training Within Industry (TWI) curriculum.
 
-![](images/TWI-1.png){style="border: 1px solid #AAA" width="500"}
+![Supplemental Slide: TWI-1](images/TWI-1.png){style="border: 1px solid #AAA" width="500"}
 
 TWI was invented and developed through dozens of test cycles 1940-1945 by the United States War Manpower Commission. TWI's development is a great example of iterative refinement, PDSA in action.
 
@@ -341,17 +353,19 @@ Toyota leaders incorporated TWI into the nascent Toyota Production System in the
 
 Here are images of the World War II era pocket cards for JM and JR, to complement the pocket card for JI we showed earlier.
 
-![](images/TWI-3.png){style="border: 1px solid #AAA" width="500"}
+![Supplemental Slide: Job Methods Pocket Card](images/TWI-3.png){style="border: 1px solid #AAA" width="500"}
 
-![](images/TWI-2.png){style="border: 1px solid #AAA" width="500"}
+![Supplemental Slide: Job Relations Pocket Card](images/TWI-2.png){style="border: 1px solid #AAA" width="500"}
 
-### Adapting Job Instruction in the Maternal Mortality and ICU projects
+### Adapting Job Instruction in the Maternal Mortality and HAI reduction projects
 
-The War Manpower Commission developed Job Instruction for war-time factories. A supervisor could build the Job Breakdown Sheet and teach a job skill on the production floor or using a special workstation with production tools and materials. In jobs that involve direct patient care, Paulo's teams adapted how they built and used Job Breakdown sheets . For example, in the 10-hour "learn how to teach the JI way" class , 14 supervisors used mannequins and simulated care settings to learn how to create Job Breakdown Sheets and teach using the Job Instruction outline.
+The War Manpower Commission developed Job Instruction for war-time factories. A supervisor could build the Job Breakdown Sheet and teach a job skill on the production floor or using a special workstation with production tools and materials. In jobs that involve direct patient care, Paulo's teams adapted how they built and used Job Breakdown sheets. For example, in the 10-hour "learn how to teach the JI way" class, 14 supervisors used mannequins and simulated care settings to learn how to create Job Breakdown Sheets and teach using the Job Instruction outline.
 
 The project team then held weekly sessions with these supervisors to co-design all the Job Breakdown Sheets for each element of the bundles. These Job Breakdown Sheets were again created using simulation care settings and then refined based on direct clinical application to patients.
 
-![](images/JI%20simulation%20training.png){style="border: 1px solid #AAA" width="500"}
+![Supplemental Slide: Job Breakdown Sheet Simulation](images/JI%20simulation%20training.png){style="border: 1px solid #AAA" width="500"}
+
+\newpage
 
 ## Amplify problems
 
@@ -359,9 +373,9 @@ The project team then held weekly sessions with these supervisors to co-design a
 
 Kamishibai is a Japanese term:
 
-![](images/Kamishibai%20definition.png){style="border: 1px solid #AAA" width="500"}
+![Supplemental Slide: Origin of Japanese term Kamishibai](images/Kamishibai%20definition.png){style="border: 1px solid #AAA" width="500"}
 
-![](images/K-board%20full%20schematic%20and%20photos.png){style="border: 1px solid #AAA" width="500"}
+![Supplemental Slide: Kamishibai boards from Bravo et al. (2023)](images/K-board%20full%20schematic%20and%20photos.png){style="border: 1px solid #AAA" width="500"}
 
 The image above is from Bravo et al. (2023), which describes how the ICU Phase 2 project team developed and deployed Kamishibai boards in almost 200 hospitals.
 
@@ -369,7 +383,7 @@ The image above is from Bravo et al. (2023), which describes how the ICU Phase 2
 
 The ICU projects developed a problem report form that anyone can use. The staff person fills out the form and puts it in a folder on the management display board. Problems are reviewed weekly (see next section.)
 
-![](images/Problem%20Report%20Sheet.png){style="border: 1px solid #AAA" width="500"}
+![Supplemental Slide: Problem Reporting Template](images/Problem%20Report%20Sheet.png){style="border: 1px solid #AAA" width="500"}
 
 ## Assign and solve problems
 
@@ -384,9 +398,9 @@ Here's the typical agenda for the problem review session:
 3.  Decide See and Solve or A3 approach for each problem.
 4.  Update the Daily Management Board, that shows projects and project management notes–date, status, responsible person.
 
-![](images/Problem-solving%20intro%202.PNG){style="border: 1px solid #AAA" width="500"}
+![Supplemental Slide: Problem-sorting matrix](images/Problem-solving%20intro%202.PNG){style="border: 1px solid #AAA" width="500"}
 
-![](images/Problem-solving%20intro%201.PNG){style="border: 1px solid #AAA" width="500"}
+![Supplemental Slide: Problem Folders and Problem Table Schematic](images/Problem-solving%20intro%201.PNG){style="border: 1px solid #AAA" width="500"}
 
 The unit leaders decide how many improvement mini-projects can be "open" at any one time. A limit on the number of projects reinforces the message that it is important to finish a mini-project before adding a new one to the board. In the recent collaboratives most units are able to address between two and five problems at any one time.
 
@@ -406,7 +420,9 @@ There are applications of digital displays for bed management that may work well
 
 In Paulo's experience, the benefits of the board outweigh the \~10 minutes a day required to keep the display up-to-date.
 
-During the collaborative, the collaborative leader has the job to keep the board updated. After the formal end of the collaborative, the unit leader has the job. \newpage
+During the collaborative, the collaborative leader has the job to keep the board updated. After the formal end of the collaborative, the unit leader has the job.
+
+\newpage
 
 # Appendix
 
@@ -422,7 +438,7 @@ Small tests get you moving fast(er) to learn by trying out your ideas.
 
 If you are familiar with Joseph Juran's Quality Trilogy, Quality Planning complements Quality Improvement and Quality Control. The IHI Whitepaper on Whole System Quality summarizes the three quality components:
 
-![](images/WSQ%20Juran%20Trilogy.png){style="border: 1px solid #AAA" width="500"}
+![Responsibility Table organized by three parts of Juran's Quality Trilogy](images/WSQ%20Juran%20Trilogy.png){style="border: 1px solid #AAA" width="500"}
 
 Quality Planning is the way an organization identifies areas of opportunity and change related to strategy and markets. Quality Planning is not reacting to immediate operational problems. Quality Planning addresses design of new products and services and the translation of the design into production through initial experiments and pilot-scale operations.
 
@@ -430,7 +446,7 @@ The Kano diagram omits Quality Planning. For example, the diagram does not show 
 
 While we don't address Quality Planning today, we believe that Quality Planning depends on the health and performance of operations, including an effective Quality Control system.
 
-[Example:]{.underline} The rapid pivot in 2020 to COVID protocols in clinical settings is an example of an exogenous change that drove changes to operations. Healthcare organizations with robust QC systems adapted quickly and more safely relative to other organizations. (Baptist Health, Skip Steward, <https://www.lean.org/the-lean-post/articles/building-a-learning-organization-kata-webinar-snippet/>).
+The rapid pivot in 2020 to COVID protocols in clinical settings is an example of an exogenous change that drove changes to operations. Healthcare organizations with robust QC systems adapted quickly and more safely relative to other organizations. (Baptist Health, Skip Steward, <https://www.lean.org/the-lean-post/articles/building-a-learning-organization-kata-webinar-snippet/>).
 
 ## Presenters
 
@@ -438,9 +454,13 @@ While we don't address Quality Planning today, we believe that Quality Planning 
 
 **Kevin Litttle, Ph.D.** (statistics) has worked as an improvement advisor to health care projects since 2001. As a senior Improvement Advisor with the Institute for Healthcare Improvement, he has recently supported IHI's Pursuing Equity projects and learning communities to decarbonize healthcare operations. He currently serves as the improvement advisor to a project funded by the West Institute that aims to reduce hospital admissions through integration of care by ACOs and Geriatric EDs in the United States. Contact: klittle\@iecodesign.com.
 
+\newpage
+
 ## Resources
 
-Bravo, M.A.S., Santos, G.C.S.D, Petenate, A.J., Westphal, P.J., de Albuquerque Souza. L.G., Marques, R.G., Morosov, E.D.M., Gushken, A.K.F., Franco, F.F., Silva, W.G., de Moura, R.M., de Lima, A.L., dos Santos, R.G., de Carvalho Andrade, K., Hamada, A.P.S., Cristalda, C.M.R., Ue, L.Y.,, de Barros, C.G., & Sebastian Vernal on behalf of the Saúde em Nossas Mãos collaborative study group (2023). Adapting lean management to prevent healthcare-associated infections: a low-cost strategy involving Kamishibai cards to sustain bundles’ compliance, *International Journal for Quality in Health Care*, 35(4), 1-6.Dinero, D. (2005), *Training Within Industry: the foundation of Lean*, Productivity Press, New York.
+Bravo, M.A.S., Santos, G.C.S.D, Petenate, A.J., Westphal, P.J., de Albuquerque Souza. L.G., Marques, R.G., Morosov, E.D.M., Gushken, A.K.F., Franco, F.F., Silva, W.G., de Moura, R.M., de Lima, A.L., dos Santos, R.G., de Carvalho Andrade, K., Hamada, A.P.S., Cristalda, C.M.R., Ue, L.Y.,, de Barros, C.G., & Sebastian Vernal on behalf of the Saúde em Nossas Mãos collaborative study group (2023). Adapting lean management to prevent healthcare-associated infections: a low-cost strategy involving Kamishibai cards to sustain bundles’ compliance, *International Journal for Quality in Health Care*, 35(4), 1-6.
+
+Dinero, D. (2005), *Training Within Industry: the Foundation of Lean*, Productivity Press, New York.
 
 Graupp, P. and Purrier, M. (2022), *Getting to Standard Work in Health Care: Using TWI to Create a Foundation for Quality Care*, Routledge, Boca Raton, FL.
 
