@@ -173,7 +173,7 @@ To reduce variation in the way staff carried out the bundles, the project team a
 
 #### Job Instruction
 
-Job Instruction (JI) is one of the core methods in the Training Within Industry (TWI). We give a bit more information about TWI in the section [Teach skills to do the work (JI Method)](#teach-skills-to-do-the-work-ji-method)).
+Job Instruction (JI) is one of the core methods in the Training Within Industry (TWI). We give a bit more information about TWI in the section [Teach skills to do the work].
 
 JI requires one-to-one teaching. This is a striking difference from methods that lecture or demonstrate to groups.
 
@@ -333,7 +333,7 @@ Here's an illustration of the three types of work standards in Kato's Step up 1.
 
 Job Instruction is one of part of the Training Within Industry (TWI) curriculum.
 
-![Supplemental Slide: TWI-1](images/TWI-1.png){style="border: 1px solid #AAA" width="500"}
+![Supplemental Slide: What is Training Within Industry?](images/TWI-1.png){style="border: 1px solid #AAA" width="500"}
 
 TWI was invented and developed through dozens of test cycles 1940-1945 by the United States War Manpower Commission. TWI's development is a great example of iterative refinement, PDSA in action.
 
@@ -389,7 +389,7 @@ The ICU projects developed a problem report form that anyone can use. The staff 
 
 Problem-solving is not an occasional activity in Quality Control. In Paulo's current design, unit teams use a weekly cycle of problem identification and assignment. Problems are divided into See and Solve problems and Structured Problem Solving problems. Structured Problem Solving requires logic and documentation using an [A3 problem-solving template](https://www.iecodesign.com/blog/2019/10/29/a3-problem-solving-and-the-model-for-improvement).
 
-Each week the RN and MD leads for the project have a 20 minute meeting. Typically, one front-line representative attends, too. Other people may be invited (e.g. pharmacist). \[LINK TO VIDEO?\]
+Each week the RN and MD leads for the project have a 20 minute meeting. Typically, one front-line representative attends, too. Other people may be invited (e.g. pharmacist).
 
 Here's the typical agenda for the problem review session:
 
@@ -460,13 +460,13 @@ The rapid pivot in 2020 to COVID protocols in clinical settings is an example of
 
 Bravo, M.A.S., Santos, G.C.S.D, Petenate, A.J., Westphal, P.J., de Albuquerque Souza. L.G., Marques, R.G., Morosov, E.D.M., Gushken, A.K.F., Franco, F.F., Silva, W.G., de Moura, R.M., de Lima, A.L., dos Santos, R.G., de Carvalho Andrade, K., Hamada, A.P.S., Cristalda, C.M.R., Ue, L.Y.,, de Barros, C.G., & Sebastian Vernal on behalf of the Saúde em Nossas Mãos collaborative study group (2023). Adapting lean management to prevent healthcare-associated infections: a low-cost strategy involving Kamishibai cards to sustain bundles’ compliance, *International Journal for Quality in Health Care*, 35(4), 1-6.
 
-Dinero, D. (2005), *Training Within Industry: the Foundation of Lean*, Productivity Press, New York.
+Dinero, D. (2005). *Training Within Industry: the Foundation of Lean*, Productivity Press, New York.
 
-Graupp, P. and Purrier, M. (2022), *Getting to Standard Work in Health Care: Using TWI to Create a Foundation for Quality Care*, Routledge, Boca Raton, FL.
+Graupp, P. and Purrier, M. (2022). *Getting to Standard Work in Health Care: Using TWI to Create a Foundation for Quality Care* (2nd ed.), Routledge, Boca Raton, FL.
 
-Kim, G. and Spear, S.J. (2023), *Wiring the Winning Organization*, IT Revolution, Portland, OR.
+Kim, G. and Spear, S.J. (2023). *Wiring the Winning Organization*, IT Revolution, Portland, OR.
 
-Lancaster, J. (2017), *The Work of Management: A Daily Path to Sustainable Improvement*, Lean Enterprise Institute, Cambridge, MA.
+Lancaster, J. (2017). *The Work of Management: A Daily Path to Sustainable Improvement*, Lean Enterprise Institute, Cambridge, MA.
 
 Sampath B., Rakover J., Baldoza K., Mate K., Lenoci-Edwards J, Barker P. (2021). *Whole System Quality: A Unified Approach to Building Responsive, Resilient Health Care Systems*. IHI White Paper. Boston: Institute for Healthcare Improvement. (Available at www.ihi.org).
 
